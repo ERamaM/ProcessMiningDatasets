@@ -12,11 +12,16 @@ file = pd.read_csv(csv_file)
 dataset = file[[case_column, activity_column, timestamp_column]]
 dataset[timestamp_column] = pd.to_datetime(dataset[timestamp_column])
 dataset[timestamp_column] = dataset[timestamp_column].dt.strftime(timestamp_format)
-d = dataset.rename(
+
+dataset[case_column] = dataset[case_column].astype("category").cat.codes
+dataset[activity_column] = dataset[activity_column].astype("category").cat.codes
+
+dataset = dataset.rename(
     columns={
         case_column: "CaseID",
         activity_column: "ActivityID",
         timestamp_column: "CompleteTimestamp"
     }, errors="raise"
 )
-d.to_csv(csv_file, sep=",", index=False)
+
+dataset.to_csv(csv_file, sep=",", index=False)
