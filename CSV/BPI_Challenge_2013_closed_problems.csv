@@ -1,4 +1,4 @@
-event,lifecycle:transition,org:resource,completeTime,Activity,Resource,org:group,case,case:variant,case:variant-index,case:creator
+concept:name,lifecycle:transition,org:resource,time:timestamp,Activity,Resource,org:group,case:concept:name,case:variant,case:variant-index,case:creator
 Queued-Awaiting Assignment,complete,Minnie-Org line A2,2006-01-11 16:49:42+02:00,Queued-Awaiting Assignment,Minnie,Org line A2,1-109135791,Variant 77,77,Fluxicon Disco
 Accepted-In Progress,complete,Minnie-Org line A2,2012-03-15 12:53:52+02:00,Accepted-In Progress,Minnie,Org line A2,1-109135791,Variant 77,77,Fluxicon Disco
 Accepted-Assigned,complete,Minnie-Org line A2,2012-03-15 12:56:17+02:00,Accepted-Assigned,Minnie,Org line A2,1-109135791,Variant 77,77,Fluxicon Disco

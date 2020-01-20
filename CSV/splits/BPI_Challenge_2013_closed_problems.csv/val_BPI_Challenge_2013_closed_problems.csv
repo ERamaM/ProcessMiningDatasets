@@ -1,0 +1,1156 @@
+concept:name,lifecycle:transition,org:resource,time:timestamp,Activity,Resource,org:group,case:concept:name,case:variant,case:variant-index,case:creator
+Accepted-In Progress,complete,Gitt-Org line C,2012-04-12 14:12:45+00:00,Accepted-In Progress,Gitt,Org line C,1-717275094,Variant 5,5,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Gitt-Org line C,2012-04-12 14:17:17+00:00,Queued-Awaiting Assignment,Gitt,Org line C,1-717275094,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Alexander-Org line C,2012-04-13 14:11:01+00:00,Accepted-In Progress,Alexander,Org line C,1-717275094,Variant 5,5,Fluxicon Disco
+Completed-Closed,complete,Alexander-Org line C,2012-04-13 14:15:05+00:00,Completed-Closed,Alexander,Org line C,1-717275094,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Arun-Org line C,2011-08-03 05:37:05+00:00,Accepted-In Progress,Arun,Org line C,1-544876956,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Arun-Org line C,2011-12-21 08:12:45+00:00,Accepted-Wait,Arun,Org line C,1-544876956,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Arun-Org line C,2012-01-24 08:17:58+00:00,Completed-Closed,Arun,Org line C,1-544876956,Variant 3,3,Fluxicon Disco
+Accepted-In Progress,complete,Mikael-Org line A2,2012-02-14 14:26:19+00:00,Accepted-In Progress,Mikael,Org line A2,1-673405851,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Mikael-Org line A2,2012-02-29 13:41:13+00:00,Completed-Closed,Mikael,Org line A2,1-673405851,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Helena-Org line C,2010-04-14 13:53:38+00:00,Accepted-In Progress,Helena,Org line C,1-367002597,Variant 19,19,Fluxicon Disco
+Accepted-In Progress,complete,Helena-Org line C,2012-01-09 16:07:46+00:00,Accepted-In Progress,Helena,Org line C,1-367002597,Variant 19,19,Fluxicon Disco
+Accepted-In Progress,complete,Björn-Org line C,2012-01-09 17:36:13+00:00,Accepted-In Progress,Björn,Org line C,1-367002597,Variant 19,19,Fluxicon Disco
+Completed-Closed,complete,Björn-Org line C,2012-02-15 11:32:49+00:00,Completed-Closed,Björn,Org line C,1-367002597,Variant 19,19,Fluxicon Disco
+Accepted-In Progress,complete,Per-Org line A2,2011-12-19 08:09:42+00:00,Accepted-In Progress,Per,Org line A2,1-625628532,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Per-Org line A2,2012-04-20 07:23:30+00:00,Completed-Closed,Per,Org line A2,1-625628532,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,William-Org line C,2012-01-11 16:18:07+00:00,Accepted-In Progress,William,Org line C,1-639028876,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,William-Org line C,2012-02-15 13:15:37+00:00,Completed-Closed,William,Org line C,1-639028876,Variant 1,1,Fluxicon Disco
+Accepted-Wait,complete,Lena-Org line A2,2012-02-14 15:31:14+00:00,Accepted-Wait,Lena,Org line A2,1-673429845,Variant 273,273,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Lena-Org line A2,2012-02-14 15:33:03+00:00,Queued-Awaiting Assignment,Lena,Org line A2,1-673429845,Variant 273,273,Fluxicon Disco
+Queued-Awaiting Assignment,complete,John-Org line A2,2012-02-14 16:09:16+00:00,Queued-Awaiting Assignment,John,Org line A2,1-673429845,Variant 273,273,Fluxicon Disco
+Accepted-In Progress,complete,Stephen-Org line A2,2012-02-15 10:19:29+00:00,Accepted-In Progress,Stephen,Org line A2,1-673429845,Variant 273,273,Fluxicon Disco
+Completed-Closed,complete,Stephen-Org line A2,2012-02-15 10:24:40+00:00,Completed-Closed,Stephen,Org line A2,1-673429845,Variant 273,273,Fluxicon Disco
+Accepted-In Progress,complete,Adam-Org line A2,2011-09-10 03:56:18+00:00,Accepted-In Progress,Adam,Org line A2,1-572730349,Variant 23,23,Fluxicon Disco
+Accepted-Wait,complete,Adam-Org line A2,2011-09-10 03:59:01+00:00,Accepted-Wait,Adam,Org line A2,1-572730349,Variant 23,23,Fluxicon Disco
+Accepted-In Progress,complete,Adam-Org line A2,2011-10-24 08:28:52+00:00,Accepted-In Progress,Adam,Org line A2,1-572730349,Variant 23,23,Fluxicon Disco
+Accepted-In Progress,complete,Miroslaw-Org line A2,2012-05-23 14:48:45+00:00,Accepted-In Progress,Miroslaw,Org line A2,1-572730349,Variant 23,23,Fluxicon Disco
+Completed-Closed,complete,Miroslaw-Org line A2,2012-05-23 14:51:16+00:00,Completed-Closed,Miroslaw,Org line A2,1-572730349,Variant 23,23,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-02-22 14:33:56+00:00,Accepted-In Progress,Carolyn,Org line G3,1-501925116,Variant 151,151,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-02-22 14:37:10+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-501925116,Variant 151,151,Fluxicon Disco
+Accepted-In Progress,complete,Santhosh-Org line G3,2011-02-22 14:37:57+00:00,Accepted-In Progress,Santhosh,Org line G3,1-501925116,Variant 151,151,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-02-22 14:40:58+00:00,Accepted-Assigned,Carolyn,Org line G3,1-501925116,Variant 151,151,Fluxicon Disco
+Accepted-In Progress,complete,Santhosh-Org line G3,2011-03-08 09:36:21+00:00,Accepted-In Progress,Santhosh,Org line G3,1-501925116,Variant 151,151,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Hannes-Org line A2,2011-03-08 09:37:05+00:00,Queued-Awaiting Assignment,Hannes,Org line A2,1-501925116,Variant 151,151,Fluxicon Disco
+Accepted-Assigned,complete,Y-Org line A2,2011-03-08 09:38:06+00:00,Accepted-Assigned,Y,Org line A2,1-501925116,Variant 151,151,Fluxicon Disco
+Accepted-Wait,complete,Y-Org line A2,2011-03-08 11:40:05+00:00,Accepted-Wait,Y,Org line A2,1-501925116,Variant 151,151,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-04-11 10:32:26+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-501925116,Variant 151,151,Fluxicon Disco
+Accepted-In Progress,complete,Santhosh-Org line G3,2011-04-11 21:25:11+00:00,Accepted-In Progress,Santhosh,Org line G3,1-501925116,Variant 151,151,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-04-11 21:25:22+00:00,Accepted-Assigned,Carolyn,Org line G3,1-501925116,Variant 151,151,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-30 12:59:43+00:00,Accepted-In Progress,Ewa,Org line G3,1-501925116,Variant 151,151,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-30 13:01:46+00:00,Completed-Closed,Ewa,Org line G3,1-501925116,Variant 151,151,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-02-26 12:39:44+00:00,Accepted-In Progress,Carolyn,Org line G3,1-356879617,Variant 95,95,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-02-26 12:45:58+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-356879617,Variant 95,95,Fluxicon Disco
+Accepted-In Progress,complete,Naga-Org line A2,2010-02-26 17:04:51+00:00,Accepted-In Progress,Naga,Org line A2,1-356879617,Variant 95,95,Fluxicon Disco
+Accepted-In Progress,complete,Naga-Org line A2,2010-02-26 17:08:30+00:00,Accepted-In Progress,Naga,Org line A2,1-356879617,Variant 95,95,Fluxicon Disco
+Accepted-In Progress,complete,Naga-Org line A2,2010-02-26 17:09:05+00:00,Accepted-In Progress,Naga,Org line A2,1-356879617,Variant 95,95,Fluxicon Disco
+Accepted-In Progress,complete,Naga-Org line A2,2010-02-26 17:09:42+00:00,Accepted-In Progress,Naga,Org line A2,1-356879617,Variant 95,95,Fluxicon Disco
+Accepted-In Progress,complete,Naga-Org line G3,2010-02-26 17:11:57+00:00,Accepted-In Progress,Naga,Org line G3,1-356879617,Variant 95,95,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-02-26 17:12:06+00:00,Accepted-Assigned,Carolyn,Org line G3,1-356879617,Variant 95,95,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-19 09:01:46+00:00,Accepted-In Progress,Ewa,Org line G3,1-356879617,Variant 95,95,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-19 09:02:07+00:00,Completed-Closed,Ewa,Org line G3,1-356879617,Variant 95,95,Fluxicon Disco
+Unmatched-Unmatched,complete,Lars-Org line A2,2009-12-04 11:10:14+00:00,Unmatched-Unmatched,Lars,Org line A2,1-337229341,Variant 91,91,Fluxicon Disco
+Accepted-Assigned,complete,Lars-Org line A2,2010-11-29 10:52:49+00:00,Accepted-Assigned,Lars,Org line A2,1-337229341,Variant 91,91,Fluxicon Disco
+Accepted-In Progress,complete,Lars-Org line A2,2012-04-14 15:22:00+00:00,Accepted-In Progress,Lars,Org line A2,1-337229341,Variant 91,91,Fluxicon Disco
+Completed-Closed,complete,Lars-Org line A2,2012-04-14 15:22:21+00:00,Completed-Closed,Lars,Org line A2,1-337229341,Variant 91,91,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-03-01 10:53:49+00:00,Accepted-In Progress,Ewa,Org line G3,1-690896014,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-03-01 11:16:29+00:00,Completed-Closed,Ewa,Org line G3,1-690896014,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-12-14 09:22:05+00:00,Accepted-In Progress,Carolyn,Org line G3,1-429979181,Variant 140,140,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-12-14 09:30:06+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-429979181,Variant 140,140,Fluxicon Disco
+Accepted-In Progress,complete,Kannan-Org line G3,2010-12-14 10:23:22+00:00,Accepted-In Progress,Kannan,Org line G3,1-429979181,Variant 140,140,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-12-14 10:23:27+00:00,Accepted-Assigned,Carolyn,Org line G3,1-429979181,Variant 140,140,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Hannes-Org line A2,2011-04-07 10:49:36+00:00,Queued-Awaiting Assignment,Hannes,Org line A2,1-429979181,Variant 140,140,Fluxicon Disco
+Accepted-Assigned,complete,Jayalakshmi-Org line A2,2011-04-07 10:53:08+00:00,Accepted-Assigned,Jayalakshmi,Org line A2,1-429979181,Variant 140,140,Fluxicon Disco
+Accepted-Wait,complete,Jayalakshmi-Org line A2,2011-04-07 11:17:37+00:00,Accepted-Wait,Jayalakshmi,Org line A2,1-429979181,Variant 140,140,Fluxicon Disco
+Accepted-Assigned,complete,Y-Org line A2,2011-04-11 07:42:33+00:00,Accepted-Assigned,Y,Org line A2,1-429979181,Variant 140,140,Fluxicon Disco
+Accepted-In Progress,complete,Y-Org line A2,2011-04-11 07:52:14+00:00,Accepted-In Progress,Y,Org line A2,1-429979181,Variant 140,140,Fluxicon Disco
+Accepted-Wait,complete,Y-Org line A2,2011-04-11 07:55:03+00:00,Accepted-Wait,Y,Org line A2,1-429979181,Variant 140,140,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-04-11 09:54:44+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-429979181,Variant 140,140,Fluxicon Disco
+Accepted-In Progress,complete,Padmanabha-Org line G3,2011-04-11 10:25:36+00:00,Accepted-In Progress,Padmanabha,Org line G3,1-429979181,Variant 140,140,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-04-11 10:25:47+00:00,Accepted-Assigned,Carolyn,Org line G3,1-429979181,Variant 140,140,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-06 15:06:34+00:00,Accepted-In Progress,Ewa,Org line G3,1-429979181,Variant 140,140,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-02-06 15:07:49+00:00,Completed-Closed,Ewa,Org line G3,1-429979181,Variant 140,140,Fluxicon Disco
+Accepted-In Progress,complete,Johan-Org line G4,2012-01-02 13:13:30+00:00,Accepted-In Progress,Johan,Org line G4,1-632486751,Variant 6,6,Fluxicon Disco
+Accepted-Assigned,complete,Johan-Org line G4,2012-01-24 12:04:38+00:00,Accepted-Assigned,Johan,Org line G4,1-632486751,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Johan-Org line G4,2012-01-24 12:05:35+00:00,Accepted-In Progress,Johan,Org line G4,1-632486751,Variant 6,6,Fluxicon Disco
+Completed-Closed,complete,Johan-Org line G4,2012-01-24 12:06:57+00:00,Completed-Closed,Johan,Org line G4,1-632486751,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Per-Org line C,2011-01-26 09:09:40+00:00,Accepted-In Progress,Per,Org line C,1-454389870,Variant 146,146,Fluxicon Disco
+Accepted-Assigned,complete,Per-Org line C,2011-05-03 07:37:30+00:00,Accepted-Assigned,Per,Org line C,1-454389870,Variant 146,146,Fluxicon Disco
+Accepted-In Progress,complete,Per-Org line C,2011-06-30 09:05:09+00:00,Accepted-In Progress,Per,Org line C,1-454389870,Variant 146,146,Fluxicon Disco
+Completed-Closed,complete,Per-Org line C,2011-06-30 09:05:10+00:00,Completed-Closed,Per,Org line C,1-454389870,Variant 146,146,Fluxicon Disco
+Accepted-In Progress,complete,Mikael-Org line C,2011-12-07 14:57:44+00:00,Accepted-In Progress,Mikael,Org line C,1-454389870,Variant 146,146,Fluxicon Disco
+Accepted-Assigned,complete,Erik-Org line C,2011-12-07 14:59:59+00:00,Accepted-Assigned,Erik,Org line C,1-454389870,Variant 146,146,Fluxicon Disco
+Accepted-In Progress,complete,Erik-Org line C,2011-12-08 08:23:44+00:00,Accepted-In Progress,Erik,Org line C,1-454389870,Variant 146,146,Fluxicon Disco
+Accepted-Wait,complete,Erik-Org line C,2012-01-03 14:24:34+00:00,Accepted-Wait,Erik,Org line C,1-454389870,Variant 146,146,Fluxicon Disco
+Completed-Closed,complete,Erik-Org line C,2012-05-07 10:24:46+00:00,Completed-Closed,Erik,Org line C,1-454389870,Variant 146,146,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Tomas-Org line A2,2012-03-08 15:17:46+00:00,Queued-Awaiting Assignment,Tomas,Org line A2,1-694899814,Variant 8,8,Fluxicon Disco
+Accepted-In Progress,complete,Tomas-Org line A2,2012-05-03 07:16:50+00:00,Accepted-In Progress,Tomas,Org line A2,1-694899814,Variant 8,8,Fluxicon Disco
+Completed-Closed,complete,Tomas-Org line A2,2012-05-03 07:20:09+00:00,Completed-Closed,Tomas,Org line A2,1-694899814,Variant 8,8,Fluxicon Disco
+Accepted-In Progress,complete,Curt-Org line C,2011-11-22 23:54:50+00:00,Accepted-In Progress,Curt,Org line C,1-614378787,Variant 5,5,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Curt-Org line C,2011-11-23 00:06:12+00:00,Queued-Awaiting Assignment,Curt,Org line C,1-614378787,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Curt-Org line C,2012-03-15 08:49:49+00:00,Accepted-In Progress,Curt,Org line C,1-614378787,Variant 5,5,Fluxicon Disco
+Completed-Closed,complete,Curt-Org line C,2012-03-15 08:50:07+00:00,Completed-Closed,Curt,Org line C,1-614378787,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Åsa-Org line C,2011-02-10 12:11:43+00:00,Accepted-In Progress,Åsa,Org line C,1-494871141,Variant 9,9,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Åsa-Org line C,2011-02-15 13:09:10+00:00,Queued-Awaiting Assignment,Åsa,Org line C,1-494871141,Variant 9,9,Fluxicon Disco
+Accepted-In Progress,complete,Anders-Org line C,2011-02-15 13:42:18+00:00,Accepted-In Progress,Anders,Org line C,1-494871141,Variant 9,9,Fluxicon Disco
+Accepted-Wait,complete,Anders-Org line C,2011-02-23 09:10:50+00:00,Accepted-Wait,Anders,Org line C,1-494871141,Variant 9,9,Fluxicon Disco
+Completed-Closed,complete,Anders-Org line C,2012-02-02 11:55:27+00:00,Completed-Closed,Anders,Org line C,1-494871141,Variant 9,9,Fluxicon Disco
+Accepted-In Progress,complete,Pär-Org line A2,2011-12-14 08:45:16+00:00,Accepted-In Progress,Pär,Org line A2,1-623354971,Variant 6,6,Fluxicon Disco
+Accepted-Assigned,complete,Pär-Org line A2,2011-12-14 08:51:17+00:00,Accepted-Assigned,Pär,Org line A2,1-623354971,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Lisbeth-Org line A2,2012-04-17 08:16:34+00:00,Accepted-In Progress,Lisbeth,Org line A2,1-623354971,Variant 6,6,Fluxicon Disco
+Completed-Closed,complete,Lisbeth-Org line A2,2012-04-17 08:16:37+00:00,Completed-Closed,Lisbeth,Org line A2,1-623354971,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Robert-Org line C,2012-01-06 15:05:47+00:00,Accepted-In Progress,Robert,Org line C,1-636102195,Variant 250,250,Fluxicon Disco
+Accepted-Wait,complete,Robert-Org line C,2012-01-06 15:15:10+00:00,Accepted-Wait,Robert,Org line C,1-636102195,Variant 250,250,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Robert-Org line C,2012-01-21 02:17:23+00:00,Queued-Awaiting Assignment,Robert,Org line C,1-636102195,Variant 250,250,Fluxicon Disco
+Accepted-Assigned,complete,Hineesh-Org line C,2012-02-29 12:04:23+00:00,Accepted-Assigned,Hineesh,Org line C,1-636102195,Variant 250,250,Fluxicon Disco
+Accepted-Wait,complete,Hineesh-Org line C,2012-03-05 15:30:53+00:00,Accepted-Wait,Hineesh,Org line C,1-636102195,Variant 250,250,Fluxicon Disco
+Completed-Closed,complete,Hineesh-Org line C,2012-03-28 15:51:35+00:00,Completed-Closed,Hineesh,Org line C,1-636102195,Variant 250,250,Fluxicon Disco
+Accepted-In Progress,complete,Rune-Org line A2,2010-05-19 09:58:36+00:00,Accepted-In Progress,Rune,Org line A2,1-374379174,Variant 26,26,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Rune-Org line A2,2010-06-15 06:18:34+00:00,Queued-Awaiting Assignment,Rune,Org line A2,1-374379174,Variant 26,26,Fluxicon Disco
+Accepted-In Progress,complete,Lars-Org line A2,2010-06-15 10:50:39+00:00,Accepted-In Progress,Lars,Org line A2,1-374379174,Variant 26,26,Fluxicon Disco
+Accepted-Wait,complete,Lars-Org line A2,2010-06-15 10:50:54+00:00,Accepted-Wait,Lars,Org line A2,1-374379174,Variant 26,26,Fluxicon Disco
+Accepted-In Progress,complete,Lars-Org line A2,2012-04-25 11:32:00+00:00,Accepted-In Progress,Lars,Org line A2,1-374379174,Variant 26,26,Fluxicon Disco
+Completed-Closed,complete,Lars-Org line A2,2012-04-25 11:32:25+00:00,Completed-Closed,Lars,Org line A2,1-374379174,Variant 26,26,Fluxicon Disco
+Accepted-In Progress,complete,Gustav-Org line G4,2011-05-18 07:46:34+00:00,Accepted-In Progress,Gustav,Org line G4,1-526647987,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Gustav-Org line G4,2012-02-21 14:20:44+00:00,Accepted-In Progress,Gustav,Org line G4,1-526647987,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Gustav-Org line G4,2012-02-21 14:20:52+00:00,Completed-Closed,Gustav,Org line G4,1-526647987,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Daniel-Org line C,2011-11-03 17:45:21+00:00,Accepted-In Progress,Daniel,Org line C,1-601819090,Variant 20,20,Fluxicon Disco
+Accepted-In Progress,complete,Daniel-Org line C,2012-02-02 11:18:05+00:00,Accepted-In Progress,Daniel,Org line C,1-601819090,Variant 20,20,Fluxicon Disco
+Accepted-Assigned,complete,Rajesh Kumar-Org line C,2012-02-02 11:18:31+00:00,Accepted-Assigned,Rajesh Kumar,Org line C,1-601819090,Variant 20,20,Fluxicon Disco
+Accepted-In Progress,complete,Andres-Org line C,2012-03-08 12:58:03+00:00,Accepted-In Progress,Andres,Org line C,1-601819090,Variant 20,20,Fluxicon Disco
+Completed-Closed,complete,Andres-Org line C,2012-03-08 12:58:40+00:00,Completed-Closed,Andres,Org line C,1-601819090,Variant 20,20,Fluxicon Disco
+Accepted-In Progress,complete,Kim-Org line C,2011-11-08 08:01:01+00:00,Accepted-In Progress,Kim,Org line C,1-604432843,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Kim-Org line C,2012-02-01 08:55:22+00:00,Completed-Closed,Kim,Org line C,1-604432843,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,John-Org line A2,2011-11-18 13:14:42+00:00,Accepted-In Progress,John,Org line A2,1-611637278,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,John-Org line A2,2012-01-17 14:32:16+00:00,Completed-Closed,John,Org line A2,1-611637278,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line C,2011-09-28 09:10:15+00:00,Accepted-In Progress,Peter,Org line C,1-578612990,Variant 199,199,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line C,2011-09-28 09:11:24+00:00,Accepted-In Progress,Peter,Org line C,1-578612990,Variant 199,199,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Peter-Org line C,2011-09-29 20:24:51+00:00,Queued-Awaiting Assignment,Peter,Org line C,1-578612990,Variant 199,199,Fluxicon Disco
+Accepted-Assigned,complete,Patrik-Org line C,2011-09-30 07:56:01+00:00,Accepted-Assigned,Patrik,Org line C,1-578612990,Variant 199,199,Fluxicon Disco
+Accepted-Assigned,complete,Jörgen-Org line C,2011-10-13 12:29:22+00:00,Accepted-Assigned,Jörgen,Org line C,1-578612990,Variant 199,199,Fluxicon Disco
+Accepted-In Progress,complete,Jörgen-Org line C,2011-12-14 15:01:57+00:00,Accepted-In Progress,Jörgen,Org line C,1-578612990,Variant 199,199,Fluxicon Disco
+Completed-Closed,complete,Jörgen-Org line C,2012-02-29 13:57:57+00:00,Completed-Closed,Jörgen,Org line C,1-578612990,Variant 199,199,Fluxicon Disco
+Accepted-In Progress,complete,Mikael-Org line C,2011-04-08 09:57:43+00:00,Accepted-In Progress,Mikael,Org line C,1-514618724,Variant 7,7,Fluxicon Disco
+Accepted-Wait,complete,Mikael-Org line C,2011-04-11 08:18:36+00:00,Accepted-Wait,Mikael,Org line C,1-514618724,Variant 7,7,Fluxicon Disco
+Accepted-In Progress,complete,Mikael-Org line C,2012-02-21 09:22:27+00:00,Accepted-In Progress,Mikael,Org line C,1-514618724,Variant 7,7,Fluxicon Disco
+Completed-Closed,complete,Mikael-Org line C,2012-02-21 09:31:26+00:00,Completed-Closed,Mikael,Org line C,1-514618724,Variant 7,7,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line C,2010-05-06 15:36:41+00:00,Accepted-In Progress,Peter,Org line C,1-372029512,Variant 108,108,Fluxicon Disco
+Unmatched-Unmatched,complete,Peter-Org line C,2010-05-06 16:05:00+00:00,Unmatched-Unmatched,Peter,Org line C,1-372029512,Variant 108,108,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Peter-Org line C,2010-10-01 14:43:52+00:00,Queued-Awaiting Assignment,Peter,Org line C,1-372029512,Variant 108,108,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line C,2010-10-04 08:59:18+00:00,Accepted-In Progress,Peter,Org line C,1-372029512,Variant 108,108,Fluxicon Disco
+Accepted-Wait,complete,Peter-Org line C,2010-10-04 09:00:12+00:00,Accepted-Wait,Peter,Org line C,1-372029512,Variant 108,108,Fluxicon Disco
+Accepted-Assigned,complete,Tomas-Org line C,2010-10-19 12:43:59+00:00,Accepted-Assigned,Tomas,Org line C,1-372029512,Variant 108,108,Fluxicon Disco
+Accepted-Wait,complete,Tomas-Org line C,2011-10-20 12:21:34+00:00,Accepted-Wait,Tomas,Org line C,1-372029512,Variant 108,108,Fluxicon Disco
+Completed-Closed,complete,Tomas-Org line C,2012-01-30 12:18:55+00:00,Completed-Closed,Tomas,Org line C,1-372029512,Variant 108,108,Fluxicon Disco
+Accepted-In Progress,complete,Börje-Org line C,2011-11-18 07:28:00+00:00,Accepted-In Progress,Börje,Org line C,1-611506787,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Börje-Org line C,2011-12-27 13:47:10+00:00,Accepted-Wait,Börje,Org line C,1-611506787,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Börje-Org line C,2012-01-03 09:49:38+00:00,Completed-Closed,Börje,Org line C,1-611506787,Variant 3,3,Fluxicon Disco
+Accepted-In Progress,complete,Åsa-Org line C,2010-10-29 09:39:08+00:00,Accepted-In Progress,Åsa,Org line C,1-415000020,Variant 62,62,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Åsa-Org line C,2010-10-29 09:44:24+00:00,Queued-Awaiting Assignment,Åsa,Org line C,1-415000020,Variant 62,62,Fluxicon Disco
+Accepted-In Progress,complete,Jonas-Org line C,2010-11-01 07:37:07+00:00,Accepted-In Progress,Jonas,Org line C,1-415000020,Variant 62,62,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Anna-Org line C,2010-11-01 10:00:46+00:00,Queued-Awaiting Assignment,Anna,Org line C,1-415000020,Variant 62,62,Fluxicon Disco
+Accepted-In Progress,complete,Anna-Org line C,2011-09-08 09:19:39+00:00,Accepted-In Progress,Anna,Org line C,1-415000020,Variant 62,62,Fluxicon Disco
+Accepted-Wait,complete,Anna-Org line C,2011-09-08 09:19:45+00:00,Accepted-Wait,Anna,Org line C,1-415000020,Variant 62,62,Fluxicon Disco
+Accepted-In Progress,complete,Anna-Org line C,2012-02-01 13:00:34+00:00,Accepted-In Progress,Anna,Org line C,1-415000020,Variant 62,62,Fluxicon Disco
+Completed-Closed,complete,Anna-Org line C,2012-02-01 13:00:54+00:00,Completed-Closed,Anna,Org line C,1-415000020,Variant 62,62,Fluxicon Disco
+Accepted-In Progress,complete,Thomas-Org line C,2011-12-10 05:25:41+00:00,Accepted-In Progress,Thomas,Org line C,1-621571462,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Thomas-Org line C,2012-01-18 11:53:51+00:00,Completed-Closed,Thomas,Org line C,1-621571462,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Evane-Org line B,2011-12-23 10:16:00+00:00,Accepted-In Progress,Evane,Org line B,1-628704675,Variant 11,11,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Evane-Org line B,2011-12-23 10:17:34+00:00,Queued-Awaiting Assignment,Evane,Org line B,1-628704675,Variant 11,11,Fluxicon Disco
+Accepted-In Progress,complete,Evane-Org line B,2012-01-04 11:45:11+00:00,Accepted-In Progress,Evane,Org line B,1-628704675,Variant 11,11,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Edney-Org line A2,2012-01-04 11:46:17+00:00,Queued-Awaiting Assignment,Edney,Org line A2,1-628704675,Variant 11,11,Fluxicon Disco
+Accepted-In Progress,complete,Ilton-Org line A2,2012-03-30 12:14:17+00:00,Accepted-In Progress,Ilton,Org line A2,1-628704675,Variant 11,11,Fluxicon Disco
+Completed-Closed,complete,Ilton-Org line A2,2012-03-30 12:30:41+00:00,Completed-Closed,Ilton,Org line A2,1-628704675,Variant 11,11,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-02 12:54:21+00:00,Accepted-In Progress,Ewa,Org line G3,1-657934265,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-03-11 22:34:08+00:00,Completed-Closed,Ewa,Org line G3,1-657934265,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Damien-Org line C,2012-01-20 17:35:56+00:00,Accepted-In Progress,Damien,Org line C,1-648861744,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Damien-Org line C,2012-02-22 10:21:00+00:00,Completed-Closed,Damien,Org line C,1-648861744,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Jay-Org line C,2011-12-22 19:57:48+00:00,Accepted-In Progress,Jay,Org line C,1-628222366,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Jay-Org line C,2012-01-18 13:51:27+00:00,Completed-Closed,Jay,Org line C,1-628222366,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-16 11:01:43+00:00,Accepted-In Progress,Ewa,Org line G3,1-679235759,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-02-16 11:05:54+00:00,Completed-Closed,Ewa,Org line G3,1-679235759,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Lars-Ove-Org line C,2011-09-27 12:03:45+00:00,Accepted-In Progress,Lars-Ove,Org line C,1-578252937,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Lars-Ove-Org line C,2012-04-17 10:36:39+00:00,Completed-Closed,Lars-Ove,Org line C,1-578252937,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-01-05 21:24:55+00:00,Accepted-In Progress,Carolyn,Org line G3,1-435825107,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-01-05 21:25:49+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-435825107,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Padmanabha-Org line G3,2011-01-06 09:24:26+00:00,Accepted-In Progress,Padmanabha,Org line G3,1-435825107,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-01-06 09:24:39+00:00,Accepted-Assigned,Carolyn,Org line G3,1-435825107,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-06 15:19:29+00:00,Accepted-In Progress,Ewa,Org line G3,1-435825107,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-02-06 15:22:02+00:00,Completed-Closed,Ewa,Org line G3,1-435825107,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Joakim-Org line C,2011-11-24 06:34:09+00:00,Accepted-In Progress,Joakim,Org line C,1-615905511,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Joakim-Org line C,2012-02-07 14:03:51+00:00,Accepted-Wait,Joakim,Org line C,1-615905511,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Joakim-Org line C,2012-04-25 14:00:33+00:00,Completed-Closed,Joakim,Org line C,1-615905511,Variant 3,3,Fluxicon Disco
+Accepted-In Progress,complete,Fabien-Org line C,2012-02-03 17:03:02+00:00,Accepted-In Progress,Fabien,Org line C,1-658792860,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Fabien-Org line C,2012-04-02 10:31:34+00:00,Accepted-In Progress,Fabien,Org line C,1-658792860,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Fabien-Org line C,2012-04-02 10:33:40+00:00,Completed-Closed,Fabien,Org line C,1-658792860,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Gustav-Org line G4,2011-08-23 12:30:43+00:00,Accepted-In Progress,Gustav,Org line G4,1-560703011,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Gustav-Org line G4,2012-02-21 14:42:40+00:00,Accepted-In Progress,Gustav,Org line G4,1-560703011,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Gustav-Org line G4,2012-02-21 14:42:50+00:00,Completed-Closed,Gustav,Org line G4,1-560703011,Variant 4,4,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Peter-Org line C,2012-05-02 15:57:16+00:00,Queued-Awaiting Assignment,Peter,Org line C,1-738626601,Variant 322,322,Fluxicon Disco
+Accepted-In Progress,complete,Raphael-Org line C,2012-05-02 15:57:39+00:00,Accepted-In Progress,Raphael,Org line C,1-738626601,Variant 322,322,Fluxicon Disco
+Accepted-In Progress,complete,Celine-Org line C,2012-05-02 16:04:21+00:00,Accepted-In Progress,Celine,Org line C,1-738626601,Variant 322,322,Fluxicon Disco
+Completed-Closed,complete,Celine-Org line C,2012-05-25 16:42:22+00:00,Completed-Closed,Celine,Org line C,1-738626601,Variant 322,322,Fluxicon Disco
+Accepted-In Progress,complete,Mårten-Org line C,2011-05-09 13:23:45+00:00,Accepted-In Progress,Mårten,Org line C,1-524169663,Variant 161,161,Fluxicon Disco
+Accepted-In Progress,complete,Mårten-Org line C,2011-05-09 13:29:28+00:00,Accepted-In Progress,Mårten,Org line C,1-524169663,Variant 161,161,Fluxicon Disco
+Accepted-In Progress,complete,Mårten-Org line C,2011-05-09 13:50:50+00:00,Accepted-In Progress,Mårten,Org line C,1-524169663,Variant 161,161,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Mårten-Org line C,2011-05-09 13:56:50+00:00,Queued-Awaiting Assignment,Mårten,Org line C,1-524169663,Variant 161,161,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Peter-Org line C,2011-05-09 14:02:06+00:00,Queued-Awaiting Assignment,Peter,Org line C,1-524169663,Variant 161,161,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line C,2011-05-11 08:39:36+00:00,Accepted-In Progress,Peter,Org line C,1-524169663,Variant 161,161,Fluxicon Disco
+Accepted-Assigned,complete,Tomas-Org line C,2011-05-11 08:39:46+00:00,Accepted-Assigned,Tomas,Org line C,1-524169663,Variant 161,161,Fluxicon Disco
+Accepted-Wait,complete,Tomas-Org line C,2011-10-20 12:32:45+00:00,Accepted-Wait,Tomas,Org line C,1-524169663,Variant 161,161,Fluxicon Disco
+Accepted-Wait,complete,Tomas-Org line C,2011-10-20 12:58:09+00:00,Accepted-Wait,Tomas,Org line C,1-524169663,Variant 161,161,Fluxicon Disco
+Completed-Closed,complete,Tomas-Org line C,2012-01-30 11:35:20+00:00,Completed-Closed,Tomas,Org line C,1-524169663,Variant 161,161,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Piotr-Org line A2,2011-11-15 20:22:20+00:00,Queued-Awaiting Assignment,Piotr,Org line A2,1-608036754,Variant 222,222,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Jacek-Org line A2,2011-11-18 12:25:55+00:00,Queued-Awaiting Assignment,Jacek,Org line A2,1-608036754,Variant 222,222,Fluxicon Disco
+Accepted-In Progress,complete,Jacek-Org line A2,2011-11-21 12:18:05+00:00,Accepted-In Progress,Jacek,Org line A2,1-608036754,Variant 222,222,Fluxicon Disco
+Accepted-Wait,complete,Jacek-Org line A2,2011-11-21 12:20:43+00:00,Accepted-Wait,Jacek,Org line A2,1-608036754,Variant 222,222,Fluxicon Disco
+Accepted-In Progress,complete,Justyna-Org line A2,2012-01-24 08:56:45+00:00,Accepted-In Progress,Justyna,Org line A2,1-608036754,Variant 222,222,Fluxicon Disco
+Completed-Closed,complete,Justyna-Org line A2,2012-02-13 09:17:51+00:00,Completed-Closed,Justyna,Org line A2,1-608036754,Variant 222,222,Fluxicon Disco
+Accepted-In Progress,complete,Craig-Org line F,2011-11-01 00:38:21+00:00,Accepted-In Progress,Craig,Org line F,1-599158067,Variant 28,28,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Craig-Org line F,2011-11-01 00:42:00+00:00,Queued-Awaiting Assignment,Craig,Org line F,1-599158067,Variant 28,28,Fluxicon Disco
+Accepted-In Progress,complete,Lennart-Org line F,2011-11-01 06:57:38+00:00,Accepted-In Progress,Lennart,Org line F,1-599158067,Variant 28,28,Fluxicon Disco
+Accepted-Assigned,complete,Johan-Org line F,2011-11-01 08:18:38+00:00,Accepted-Assigned,Johan,Org line F,1-599158067,Variant 28,28,Fluxicon Disco
+Completed-Closed,complete,Johan-Org line F,2012-01-04 11:36:05+00:00,Completed-Closed,Johan,Org line F,1-599158067,Variant 28,28,Fluxicon Disco
+Accepted-In Progress,complete,Ian-Org line A2,2011-10-24 07:11:07+00:00,Accepted-In Progress,Ian,Org line A2,1-593312167,Variant 7,7,Fluxicon Disco
+Accepted-Wait,complete,Ian-Org line A2,2011-10-24 07:14:00+00:00,Accepted-Wait,Ian,Org line A2,1-593312167,Variant 7,7,Fluxicon Disco
+Accepted-In Progress,complete,Andrew-Org line A2,2012-05-04 15:01:15+00:00,Accepted-In Progress,Andrew,Org line A2,1-593312167,Variant 7,7,Fluxicon Disco
+Completed-Closed,complete,Andrew-Org line A2,2012-05-04 15:01:17+00:00,Completed-Closed,Andrew,Org line A2,1-593312167,Variant 7,7,Fluxicon Disco
+Accepted-In Progress,complete,Lauro-Org line A2,2011-12-21 13:57:20+00:00,Accepted-In Progress,Lauro,Org line A2,1-627557462,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Lauro-Org line A2,2011-12-21 13:58:06+00:00,Accepted-In Progress,Lauro,Org line A2,1-627557462,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Lauro-Org line A2,2012-02-01 12:51:37+00:00,Completed-Closed,Lauro,Org line A2,1-627557462,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Christer-Org line C,2012-05-14 11:50:28+00:00,Accepted-In Progress,Christer,Org line C,1-744867338,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Christer-Org line C,2012-05-21 09:48:01+00:00,Completed-Closed,Christer,Org line C,1-744867338,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-12-30 09:45:20+00:00,Accepted-In Progress,Carolyn,Org line G3,1-434419581,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-12-30 09:56:11+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-434419581,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Padmanabha-Org line G3,2010-12-30 10:03:45+00:00,Accepted-In Progress,Padmanabha,Org line G3,1-434419581,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-12-30 10:06:23+00:00,Accepted-Assigned,Carolyn,Org line G3,1-434419581,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-06 15:07:59+00:00,Accepted-In Progress,Ewa,Org line G3,1-434419581,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-02-06 15:12:29+00:00,Completed-Closed,Ewa,Org line G3,1-434419581,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Roland-Org line G4,2011-04-11 13:56:28+00:00,Accepted-In Progress,Roland,Org line G4,1-515461174,Variant 14,14,Fluxicon Disco
+Accepted-Assigned,complete,Roland-Org line G4,2011-12-13 09:21:26+00:00,Accepted-Assigned,Roland,Org line G4,1-515461174,Variant 14,14,Fluxicon Disco
+Accepted-Wait,complete,Roland-Org line G4,2012-02-08 21:09:00+00:00,Accepted-Wait,Roland,Org line G4,1-515461174,Variant 14,14,Fluxicon Disco
+Completed-Closed,complete,Roland-Org line G4,2012-03-26 07:27:45+00:00,Completed-Closed,Roland,Org line G4,1-515461174,Variant 14,14,Fluxicon Disco
+Accepted-In Progress,complete,Veronique-Org line A2,2011-04-21 07:37:44+00:00,Accepted-In Progress,Veronique,Org line A2,1-519386144,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Veronique-Org line A2,2012-01-12 10:44:59+00:00,Completed-Closed,Veronique,Org line A2,1-519386144,Variant 1,1,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Minnie-Org line A2,2006-01-11 14:49:42+00:00,Queued-Awaiting Assignment,Minnie,Org line A2,1-109135791,Variant 77,77,Fluxicon Disco
+Accepted-In Progress,complete,Minnie-Org line A2,2012-03-15 10:53:52+00:00,Accepted-In Progress,Minnie,Org line A2,1-109135791,Variant 77,77,Fluxicon Disco
+Accepted-Assigned,complete,Minnie-Org line A2,2012-03-15 10:56:17+00:00,Accepted-Assigned,Minnie,Org line A2,1-109135791,Variant 77,77,Fluxicon Disco
+Accepted-In Progress,complete,Minnie-Org line A2,2012-03-15 11:09:05+00:00,Accepted-In Progress,Minnie,Org line A2,1-109135791,Variant 77,77,Fluxicon Disco
+Completed-Closed,complete,Minnie-Org line A2,2012-03-15 11:11:33+00:00,Completed-Closed,Minnie,Org line A2,1-109135791,Variant 77,77,Fluxicon Disco
+Accepted-In Progress,complete,Robert-Org line C,2012-01-10 04:34:32+00:00,Accepted-In Progress,Robert,Org line C,1-637516103,Variant 5,5,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Robert-Org line C,2012-01-10 04:39:30+00:00,Queued-Awaiting Assignment,Robert,Org line C,1-637516103,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Sonu-Org line C,2012-01-10 08:43:57+00:00,Accepted-In Progress,Sonu,Org line C,1-637516103,Variant 5,5,Fluxicon Disco
+Completed-Closed,complete,Sonu-Org line C,2012-01-10 08:49:47+00:00,Completed-Closed,Sonu,Org line C,1-637516103,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Håkan-Org line A2,2011-10-12 09:32:41+00:00,Accepted-In Progress,Håkan,Org line A2,1-585459725,Variant 204,204,Fluxicon Disco
+Accepted-Assigned,complete,Håkan-Org line A2,2011-10-12 09:47:12+00:00,Accepted-Assigned,Håkan,Org line A2,1-585459725,Variant 204,204,Fluxicon Disco
+Accepted-Assigned,complete,Mattias-Org line A2,2012-01-19 12:51:59+00:00,Accepted-Assigned,Mattias,Org line A2,1-585459725,Variant 204,204,Fluxicon Disco
+Accepted-Wait,complete,Mattias-Org line A2,2012-05-04 16:17:46+00:00,Accepted-Wait,Mattias,Org line A2,1-585459725,Variant 204,204,Fluxicon Disco
+Accepted-In Progress,complete,Mattias-Org line A2,2012-05-04 16:18:01+00:00,Accepted-In Progress,Mattias,Org line A2,1-585459725,Variant 204,204,Fluxicon Disco
+Completed-Closed,complete,Mattias-Org line A2,2012-05-10 07:55:09+00:00,Completed-Closed,Mattias,Org line A2,1-585459725,Variant 204,204,Fluxicon Disco
+Accepted-In Progress,complete,Cyril-Org line C,2011-07-22 07:56:05+00:00,Accepted-In Progress,Cyril,Org line C,1-542919207,Variant 31,31,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Cyril-Org line C,2011-07-22 08:03:11+00:00,Queued-Awaiting Assignment,Cyril,Org line C,1-542919207,Variant 31,31,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Sarah-Org line A2,2011-07-22 16:59:03+00:00,Queued-Awaiting Assignment,Sarah,Org line A2,1-542919207,Variant 31,31,Fluxicon Disco
+Accepted-In Progress,complete,Sarah-Org line A2,2012-04-11 10:56:37+00:00,Accepted-In Progress,Sarah,Org line A2,1-542919207,Variant 31,31,Fluxicon Disco
+Completed-Closed,complete,Sarah-Org line A2,2012-04-11 11:00:51+00:00,Completed-Closed,Sarah,Org line A2,1-542919207,Variant 31,31,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-04-20 13:18:07+00:00,Accepted-In Progress,Carolyn,Org line G3,1-519085985,Variant 56,56,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-04-20 13:21:54+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-519085985,Variant 56,56,Fluxicon Disco
+Accepted-In Progress,complete,Padmanabha-Org line G3,2011-04-21 10:19:11+00:00,Accepted-In Progress,Padmanabha,Org line G3,1-519085985,Variant 56,56,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-04-21 10:19:25+00:00,Accepted-Assigned,Carolyn,Org line G3,1-519085985,Variant 56,56,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Hannes-Org line A2,2011-04-22 10:39:46+00:00,Queued-Awaiting Assignment,Hannes,Org line A2,1-519085985,Variant 56,56,Fluxicon Disco
+Accepted-Assigned,complete,Y-Org line A2,2011-04-22 10:42:02+00:00,Accepted-Assigned,Y,Org line A2,1-519085985,Variant 56,56,Fluxicon Disco
+Accepted-Assigned,complete,Jayalakshmi-Org line A2,2011-04-25 12:44:07+00:00,Accepted-Assigned,Jayalakshmi,Org line A2,1-519085985,Variant 56,56,Fluxicon Disco
+Accepted-Wait,complete,Jayalakshmi-Org line A2,2011-04-27 13:28:55+00:00,Accepted-Wait,Jayalakshmi,Org line A2,1-519085985,Variant 56,56,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-04-29 07:42:30+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-519085985,Variant 56,56,Fluxicon Disco
+Accepted-In Progress,complete,Padmanabha-Org line G3,2011-04-29 11:42:45+00:00,Accepted-In Progress,Padmanabha,Org line G3,1-519085985,Variant 56,56,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-04-29 11:42:52+00:00,Accepted-Assigned,Carolyn,Org line G3,1-519085985,Variant 56,56,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-06 20:47:09+00:00,Accepted-In Progress,Ewa,Org line G3,1-519085985,Variant 56,56,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-02-06 20:48:29+00:00,Completed-Closed,Ewa,Org line G3,1-519085985,Variant 56,56,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Robert-Org line C,2011-10-19 19:47:58+00:00,Queued-Awaiting Assignment,Robert,Org line C,1-590574771,Variant 34,34,Fluxicon Disco
+Accepted-In Progress,complete,Ramith-Org line C,2011-10-20 09:38:25+00:00,Accepted-In Progress,Ramith,Org line C,1-590574771,Variant 34,34,Fluxicon Disco
+Completed-Closed,complete,Ramith-Org line C,2011-11-06 18:42:28+00:00,Completed-Closed,Ramith,Org line C,1-590574771,Variant 34,34,Fluxicon Disco
+Accepted-In Progress,complete,Ramith-Org line C,2011-11-11 14:47:02+00:00,Accepted-In Progress,Ramith,Org line C,1-590574771,Variant 34,34,Fluxicon Disco
+Completed-Closed,complete,Ramith-Org line C,2012-01-04 06:12:48+00:00,Completed-Closed,Ramith,Org line C,1-590574771,Variant 34,34,Fluxicon Disco
+Accepted-In Progress,complete,Saikat-Org line A2,2011-11-03 04:42:43+00:00,Accepted-In Progress,Saikat,Org line A2,1-601289432,Variant 6,6,Fluxicon Disco
+Accepted-Assigned,complete,Saikat-Org line A2,2012-01-18 10:55:47+00:00,Accepted-Assigned,Saikat,Org line A2,1-601289432,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Saikat-Org line A2,2012-02-22 06:10:05+00:00,Accepted-In Progress,Saikat,Org line A2,1-601289432,Variant 6,6,Fluxicon Disco
+Completed-Closed,complete,Saikat-Org line A2,2012-02-22 06:11:43+00:00,Completed-Closed,Saikat,Org line A2,1-601289432,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Elisabet-Org line V2,2012-05-23 09:19:58+00:00,Accepted-In Progress,Elisabet,Org line V2,1-749012057,Variant 5,5,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Elisabet-Org line V2,2012-05-23 09:21:06+00:00,Queued-Awaiting Assignment,Elisabet,Org line V2,1-749012057,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Tony-Org line V2,2012-05-28 13:33:20+00:00,Accepted-In Progress,Tony,Org line V2,1-749012057,Variant 5,5,Fluxicon Disco
+Completed-Closed,complete,Tony-Org line V2,2012-05-28 13:36:00+00:00,Completed-Closed,Tony,Org line V2,1-749012057,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-04-04 13:05:21+00:00,Accepted-In Progress,Ewa,Org line G3,1-708833963,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-04-04 14:33:41+00:00,Completed-Closed,Ewa,Org line G3,1-708833963,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Tomas-Org line A2,2011-12-13 12:52:14+00:00,Accepted-In Progress,Tomas,Org line A2,1-622940906,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Tomas-Org line A2,2012-01-13 09:07:55+00:00,Accepted-In Progress,Tomas,Org line A2,1-622940906,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Tomas-Org line A2,2012-01-17 10:10:00+00:00,Completed-Closed,Tomas,Org line A2,1-622940906,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Robert-Org line C,2011-11-24 12:08:26+00:00,Accepted-In Progress,Robert,Org line C,1-616211466,Variant 224,224,Fluxicon Disco
+Accepted-Wait,complete,Robert-Org line C,2011-11-24 12:11:59+00:00,Accepted-Wait,Robert,Org line C,1-616211466,Variant 224,224,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Robert-Org line C,2011-12-21 11:31:08+00:00,Queued-Awaiting Assignment,Robert,Org line C,1-616211466,Variant 224,224,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Pratap-Org line C,2012-01-20 01:32:09+00:00,Queued-Awaiting Assignment,Pratap,Org line C,1-616211466,Variant 224,224,Fluxicon Disco
+Accepted-In Progress,complete,Pratap-Org line C,2012-02-13 02:22:20+00:00,Accepted-In Progress,Pratap,Org line C,1-616211466,Variant 224,224,Fluxicon Disco
+Accepted-Wait,complete,Pratap-Org line C,2012-02-13 02:22:28+00:00,Accepted-Wait,Pratap,Org line C,1-616211466,Variant 224,224,Fluxicon Disco
+Accepted-In Progress,complete,Suman-Org line C,2012-03-15 11:22:42+00:00,Accepted-In Progress,Suman,Org line C,1-616211466,Variant 224,224,Fluxicon Disco
+Completed-Closed,complete,Suman-Org line C,2012-03-15 11:22:50+00:00,Completed-Closed,Suman,Org line C,1-616211466,Variant 224,224,Fluxicon Disco
+Accepted-In Progress,complete,Murali-Org line B,2012-04-17 05:46:35+00:00,Accepted-In Progress,Murali,Org line B,1-719999163,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Murali-Org line B,2012-05-16 03:48:11+00:00,Completed-Closed,Murali,Org line B,1-719999163,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Arnaud-Org line C,2012-01-30 09:33:13+00:00,Accepted-In Progress,Arnaud,Org line C,1-655213351,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Arnaud-Org line C,2012-02-07 14:39:27+00:00,Accepted-In Progress,Arnaud,Org line C,1-655213351,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Arnaud-Org line C,2012-02-07 14:40:13+00:00,Completed-Closed,Arnaud,Org line C,1-655213351,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Mahesh-Org line C,2012-02-15 15:48:42+00:00,Accepted-In Progress,Mahesh,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Mahesh-Org line C,2012-02-15 15:52:05+00:00,Queued-Awaiting Assignment,Mahesh,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Accepted-In Progress,complete,Radha-Org line C,2012-02-16 10:27:09+00:00,Accepted-In Progress,Radha,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Accepted-Assigned,complete,MV-Org line C,2012-02-16 10:27:46+00:00,Accepted-Assigned,MV,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Mahesh-Org line C,2012-02-16 12:46:42+00:00,Queued-Awaiting Assignment,Mahesh,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Accepted-In Progress,complete,MV-Org line C,2012-02-16 12:46:47+00:00,Accepted-In Progress,MV,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Accepted-Assigned,complete,Mahesh-Org line C,2012-02-16 12:47:47+00:00,Accepted-Assigned,Mahesh,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Accepted-Assigned,complete,Göran-Org line C,2012-02-16 12:48:06+00:00,Accepted-Assigned,Göran,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Pratap-Org line C,2012-05-09 12:24:02+00:00,Queued-Awaiting Assignment,Pratap,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Accepted-In Progress,complete,Nirmal-Org line C,2012-05-09 13:24:54+00:00,Accepted-In Progress,Nirmal,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Accepted-Wait,complete,Nirmal-Org line C,2012-05-09 14:30:16+00:00,Accepted-Wait,Nirmal,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Accepted-Assigned,complete,Pratap-Org line C,2012-05-09 14:48:23+00:00,Accepted-Assigned,Pratap,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Accepted-In Progress,complete,Kristoffer-Org line C,2012-05-10 14:44:23+00:00,Accepted-In Progress,Kristoffer,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Completed-Closed,complete,Kristoffer-Org line C,2012-05-10 14:44:54+00:00,Completed-Closed,Kristoffer,Org line C,1-675826063,Variant 274,274,Fluxicon Disco
+Accepted-In Progress,complete,Sree-Org line A2,2012-02-17 14:39:29+00:00,Accepted-In Progress,Sree,Org line A2,1-682277823,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Sree-Org line A2,2012-02-22 19:32:34+00:00,Completed-Closed,Sree,Org line A2,1-682277823,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-12-03 12:29:18+00:00,Accepted-In Progress,Carolyn,Org line G3,1-426969419,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-12-03 12:37:26+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-426969419,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Santhosh-Org line A2,2010-12-03 12:40:54+00:00,Accepted-In Progress,Santhosh,Org line A2,1-426969419,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line A2,2010-12-03 12:42:46+00:00,Accepted-Assigned,Carolyn,Org line A2,1-426969419,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line A2,2012-02-06 14:55:32+00:00,Accepted-In Progress,Ewa,Org line A2,1-426969419,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line A2,2012-02-06 14:57:04+00:00,Completed-Closed,Ewa,Org line A2,1-426969419,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Gitt-Org line C,2012-04-12 13:35:00+00:00,Accepted-In Progress,Gitt,Org line C,1-717222893,Variant 5,5,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Gitt-Org line C,2012-04-12 13:40:06+00:00,Queued-Awaiting Assignment,Gitt,Org line C,1-717222893,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Alexander-Org line C,2012-04-13 14:10:52+00:00,Accepted-In Progress,Alexander,Org line C,1-717222893,Variant 5,5,Fluxicon Disco
+Completed-Closed,complete,Alexander-Org line C,2012-04-13 14:13:44+00:00,Completed-Closed,Alexander,Org line C,1-717222893,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Cyrille-Org line C,2011-10-13 17:22:38+00:00,Accepted-In Progress,Cyrille,Org line C,1-586562664,Variant 206,206,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Cyrille-Org line C,2011-10-13 17:27:15+00:00,Queued-Awaiting Assignment,Cyrille,Org line C,1-586562664,Variant 206,206,Fluxicon Disco
+Accepted-In Progress,complete,Karthick-Org line C,2011-10-18 12:43:47+00:00,Accepted-In Progress,Karthick,Org line C,1-586562664,Variant 206,206,Fluxicon Disco
+Accepted-Wait,complete,Karthick-Org line C,2011-10-18 12:43:56+00:00,Accepted-Wait,Karthick,Org line C,1-586562664,Variant 206,206,Fluxicon Disco
+Accepted-In Progress,complete,Karthick-Org line C,2012-01-04 11:28:49+00:00,Accepted-In Progress,Karthick,Org line C,1-586562664,Variant 206,206,Fluxicon Disco
+Accepted-Assigned,complete,Venkata-Org line C,2012-02-09 06:38:50+00:00,Accepted-Assigned,Venkata,Org line C,1-586562664,Variant 206,206,Fluxicon Disco
+Accepted-In Progress,complete,Venkata-Org line C,2012-03-28 08:13:27+00:00,Accepted-In Progress,Venkata,Org line C,1-586562664,Variant 206,206,Fluxicon Disco
+Completed-Closed,complete,Venkata-Org line C,2012-03-28 08:16:13+00:00,Completed-Closed,Venkata,Org line C,1-586562664,Variant 206,206,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-04-15 13:00:31+00:00,Accepted-In Progress,Carolyn,Org line G3,1-517490964,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-04-15 13:04:07+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-517490964,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Padmanabha-Org line G3,2011-04-15 13:17:08+00:00,Accepted-In Progress,Padmanabha,Org line G3,1-517490964,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-04-15 13:17:14+00:00,Accepted-Assigned,Carolyn,Org line G3,1-517490964,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-02 21:21:43+00:00,Accepted-In Progress,Ewa,Org line G3,1-517490964,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-02-02 21:24:48+00:00,Completed-Closed,Ewa,Org line G3,1-517490964,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ian-Org line A2,2011-12-01 14:52:56+00:00,Accepted-In Progress,Ian,Org line A2,1-618589528,Variant 13,13,Fluxicon Disco
+Accepted-Assigned,complete,Ian-Org line A2,2011-12-01 14:54:50+00:00,Accepted-Assigned,Ian,Org line A2,1-618589528,Variant 13,13,Fluxicon Disco
+Accepted-In Progress,complete,Ian-Org line A2,2011-12-06 15:05:32+00:00,Accepted-In Progress,Ian,Org line A2,1-618589528,Variant 13,13,Fluxicon Disco
+Accepted-In Progress,complete,Andrew-Org line A2,2012-05-17 10:53:39+00:00,Accepted-In Progress,Andrew,Org line A2,1-618589528,Variant 13,13,Fluxicon Disco
+Completed-Closed,complete,Andrew-Org line A2,2012-05-17 10:53:45+00:00,Completed-Closed,Andrew,Org line A2,1-618589528,Variant 13,13,Fluxicon Disco
+Accepted-In Progress,complete,Suzanne-Org line V2,2012-05-11 07:10:04+00:00,Accepted-In Progress,Suzanne,Org line V2,1-743923075,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Suzanne-Org line V2,2012-05-30 08:57:00+00:00,Completed-Closed,Suzanne,Org line V2,1-743923075,Variant 1,1,Fluxicon Disco
+Accepted-Wait,complete,Alan-Org line A2,2011-11-15 14:37:49+00:00,Accepted-Wait,Alan,Org line A2,1-607934151,Variant 15,15,Fluxicon Disco
+Completed-Closed,complete,Alan-Org line A2,2012-02-15 10:35:45+00:00,Completed-Closed,Alan,Org line A2,1-607934151,Variant 15,15,Fluxicon Disco
+Accepted-In Progress,complete,Patrik-Org line C,2012-01-05 13:10:14+00:00,Accepted-In Progress,Patrik,Org line C,1-635404161,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Patrik-Org line C,2012-01-05 13:10:27+00:00,Accepted-Wait,Patrik,Org line C,1-635404161,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Patrik-Org line C,2012-01-24 08:30:20+00:00,Completed-Closed,Patrik,Org line C,1-635404161,Variant 3,3,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2011-11-03 12:23:28+00:00,Accepted-In Progress,Ewa,Org line G3,1-601636752,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-03 08:32:27+00:00,Completed-Closed,Ewa,Org line G3,1-601636752,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Edward-Org line C,2011-10-28 14:16:54+00:00,Accepted-In Progress,Edward,Org line C,1-597580752,Variant 47,47,Fluxicon Disco
+Accepted-In Progress,complete,Edward-Org line C,2011-10-28 14:23:31+00:00,Accepted-In Progress,Edward,Org line C,1-597580752,Variant 47,47,Fluxicon Disco
+Accepted-In Progress,complete,Edward-Org line C,2011-10-28 14:25:32+00:00,Accepted-In Progress,Edward,Org line C,1-597580752,Variant 47,47,Fluxicon Disco
+Accepted-Wait,complete,Edward-Org line C,2011-12-08 21:31:10+00:00,Accepted-Wait,Edward,Org line C,1-597580752,Variant 47,47,Fluxicon Disco
+Completed-Closed,complete,Edward-Org line C,2012-02-13 14:47:58+00:00,Completed-Closed,Edward,Org line C,1-597580752,Variant 47,47,Fluxicon Disco
+Accepted-In Progress,complete,David-Org line G4,2012-05-08 12:51:43+00:00,Accepted-In Progress,David,Org line G4,1-742383139,Variant 6,6,Fluxicon Disco
+Accepted-Assigned,complete,David-Org line G4,2012-05-08 12:58:54+00:00,Accepted-Assigned,David,Org line G4,1-742383139,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,David-Org line G4,2012-05-17 08:35:00+00:00,Accepted-In Progress,David,Org line G4,1-742383139,Variant 6,6,Fluxicon Disco
+Completed-Closed,complete,David-Org line G4,2012-05-17 08:35:01+00:00,Completed-Closed,David,Org line G4,1-742383139,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Anson-Org line A2,2012-02-13 16:15:25+00:00,Accepted-In Progress,Anson,Org line A2,1-672807011,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Anson-Org line A2,2012-05-11 11:23:52+00:00,Accepted-In Progress,Anson,Org line A2,1-672807011,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Anson-Org line A2,2012-05-11 11:24:43+00:00,Completed-Closed,Anson,Org line A2,1-672807011,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Krzysztof-Org line A2,2012-03-23 03:02:26+00:00,Accepted-In Progress,Krzysztof,Org line A2,1-701429911,Variant 17,17,Fluxicon Disco
+Accepted-Assigned,complete,Krzysztof-Org line A2,2012-03-23 03:05:55+00:00,Accepted-Assigned,Krzysztof,Org line A2,1-701429911,Variant 17,17,Fluxicon Disco
+Accepted-In Progress,complete,Krzysztof-Org line A2,2012-03-26 11:38:36+00:00,Accepted-In Progress,Krzysztof,Org line A2,1-701429911,Variant 17,17,Fluxicon Disco
+Accepted-Wait,complete,Krzysztof-Org line A2,2012-03-28 10:23:39+00:00,Accepted-Wait,Krzysztof,Org line A2,1-701429911,Variant 17,17,Fluxicon Disco
+Completed-Closed,complete,Krzysztof-Org line A2,2012-04-10 07:50:05+00:00,Completed-Closed,Krzysztof,Org line A2,1-701429911,Variant 17,17,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-09-01 10:17:52+00:00,Accepted-In Progress,Carolyn,Org line G3,1-397446945,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-09-01 10:22:26+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-397446945,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Kannan-Org line G3,2010-09-01 11:29:56+00:00,Accepted-In Progress,Kannan,Org line G3,1-397446945,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-09-01 11:30:04+00:00,Accepted-Assigned,Carolyn,Org line G3,1-397446945,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-31 08:01:21+00:00,Accepted-In Progress,Ewa,Org line G3,1-397446945,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-31 08:02:46+00:00,Completed-Closed,Ewa,Org line G3,1-397446945,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,David-Org line G4,2012-01-13 08:43:55+00:00,Accepted-In Progress,David,Org line G4,1-641083987,Variant 6,6,Fluxicon Disco
+Accepted-Assigned,complete,David-Org line G4,2012-01-13 08:47:37+00:00,Accepted-Assigned,David,Org line G4,1-641083987,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,David-Org line G4,2012-05-17 08:54:33+00:00,Accepted-In Progress,David,Org line G4,1-641083987,Variant 6,6,Fluxicon Disco
+Completed-Closed,complete,David-Org line G4,2012-05-17 08:54:35+00:00,Completed-Closed,David,Org line G4,1-641083987,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Ian-Org line A2,2011-12-08 10:10:07+00:00,Accepted-In Progress,Ian,Org line A2,1-620925267,Variant 13,13,Fluxicon Disco
+Accepted-Assigned,complete,Ian-Org line A2,2011-12-08 10:19:05+00:00,Accepted-Assigned,Ian,Org line A2,1-620925267,Variant 13,13,Fluxicon Disco
+Accepted-In Progress,complete,Ian-Org line A2,2011-12-13 11:56:25+00:00,Accepted-In Progress,Ian,Org line A2,1-620925267,Variant 13,13,Fluxicon Disco
+Accepted-In Progress,complete,Andrew-Org line A2,2012-05-17 10:48:24+00:00,Accepted-In Progress,Andrew,Org line A2,1-620925267,Variant 13,13,Fluxicon Disco
+Completed-Closed,complete,Andrew-Org line A2,2012-05-17 10:51:47+00:00,Completed-Closed,Andrew,Org line A2,1-620925267,Variant 13,13,Fluxicon Disco
+Accepted-In Progress,complete,Jonas-Org line C,2011-07-12 00:25:20+00:00,Accepted-In Progress,Jonas,Org line C,1-540631861,Variant 173,173,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Jonas-Org line C,2011-07-12 00:33:51+00:00,Queued-Awaiting Assignment,Jonas,Org line C,1-540631861,Variant 173,173,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Jonas-Org line C,2011-07-20 10:57:11+00:00,Queued-Awaiting Assignment,Jonas,Org line C,1-540631861,Variant 173,173,Fluxicon Disco
+Accepted-In Progress,complete,Pradeesh-Org line C,2011-08-03 10:24:12+00:00,Accepted-In Progress,Pradeesh,Org line C,1-540631861,Variant 173,173,Fluxicon Disco
+Accepted-Assigned,complete,Venkata-Org line C,2011-08-03 10:27:27+00:00,Accepted-Assigned,Venkata,Org line C,1-540631861,Variant 173,173,Fluxicon Disco
+Accepted-In Progress,complete,Pradeesh-Org line C,2011-09-27 08:06:11+00:00,Accepted-In Progress,Pradeesh,Org line C,1-540631861,Variant 173,173,Fluxicon Disco
+Accepted-Assigned,complete,Karthick-Org line C,2011-09-27 08:06:28+00:00,Accepted-Assigned,Karthick,Org line C,1-540631861,Variant 173,173,Fluxicon Disco
+Accepted-Wait,complete,Karthick-Org line C,2011-10-18 12:45:54+00:00,Accepted-Wait,Karthick,Org line C,1-540631861,Variant 173,173,Fluxicon Disco
+Accepted-Assigned,complete,Ashwin-Org line C,2011-10-18 12:48:31+00:00,Accepted-Assigned,Ashwin,Org line C,1-540631861,Variant 173,173,Fluxicon Disco
+Accepted-Wait,complete,Ashwin-Org line C,2011-10-20 16:21:20+00:00,Accepted-Wait,Ashwin,Org line C,1-540631861,Variant 173,173,Fluxicon Disco
+Completed-Closed,complete,Ashwin-Org line C,2012-04-19 13:42:22+00:00,Completed-Closed,Ashwin,Org line C,1-540631861,Variant 173,173,Fluxicon Disco
+Accepted-In Progress,complete,Tomas-Org line A2,2007-05-10 14:21:54+00:00,Accepted-In Progress,Tomas,Org line A2,1-172473423,Variant 23,23,Fluxicon Disco
+Accepted-Wait,complete,Tomas-Org line A2,2009-12-02 13:24:33+00:00,Accepted-Wait,Tomas,Org line A2,1-172473423,Variant 23,23,Fluxicon Disco
+Accepted-In Progress,complete,Tomas-Org line A2,2011-09-03 05:10:59+00:00,Accepted-In Progress,Tomas,Org line A2,1-172473423,Variant 23,23,Fluxicon Disco
+Accepted-In Progress,complete,Carrie-Org line A2,2012-01-18 07:20:53+00:00,Accepted-In Progress,Carrie,Org line A2,1-172473423,Variant 23,23,Fluxicon Disco
+Completed-Closed,complete,Carrie-Org line A2,2012-01-18 07:21:10+00:00,Completed-Closed,Carrie,Org line A2,1-172473423,Variant 23,23,Fluxicon Disco
+Accepted-In Progress,complete,Binod-Org line A2,2012-02-11 18:12:48+00:00,Accepted-In Progress,Binod,Org line A2,1-669144071,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Binod-Org line A2,2012-02-11 18:37:05+00:00,Completed-Closed,Binod,Org line A2,1-669144071,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Torbjörn-Org line G4,2012-02-23 08:32:06+00:00,Accepted-In Progress,Torbjörn,Org line G4,1-686854421,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Torbjörn-Org line G4,2012-02-24 13:50:02+00:00,Completed-Closed,Torbjörn,Org line G4,1-686854421,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Ing-Marie-Org line G4,2011-09-27 02:53:16+00:00,Accepted-In Progress,Ing-Marie,Org line G4,1-577996886,Variant 197,197,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Ing-Marie-Org line G4,2011-10-06 11:46:24+00:00,Queued-Awaiting Assignment,Ing-Marie,Org line G4,1-577996886,Variant 197,197,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Jaroslaw-Org line A2,2011-10-12 16:10:26+00:00,Queued-Awaiting Assignment,Jaroslaw,Org line A2,1-577996886,Variant 197,197,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Ing-Marie-Org line G4,2011-10-18 14:00:00+00:00,Queued-Awaiting Assignment,Ing-Marie,Org line G4,1-577996886,Variant 197,197,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Peter-Org line C,2011-12-16 17:27:10+00:00,Queued-Awaiting Assignment,Peter,Org line C,1-577996886,Variant 197,197,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Peter-Org line C,2012-01-17 14:31:59+00:00,Queued-Awaiting Assignment,Peter,Org line C,1-577996886,Variant 197,197,Fluxicon Disco
+Accepted-Assigned,complete,Linda-Org line C,2012-01-17 14:32:49+00:00,Accepted-Assigned,Linda,Org line C,1-577996886,Variant 197,197,Fluxicon Disco
+Accepted-In Progress,complete,Linda-Org line C,2012-01-17 14:34:31+00:00,Accepted-In Progress,Linda,Org line C,1-577996886,Variant 197,197,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Vinay-Org line C,2012-03-02 11:22:43+00:00,Queued-Awaiting Assignment,Vinay,Org line C,1-577996886,Variant 197,197,Fluxicon Disco
+Accepted-In Progress,complete,Vinay-Org line C,2012-05-23 10:41:24+00:00,Accepted-In Progress,Vinay,Org line C,1-577996886,Variant 197,197,Fluxicon Disco
+Accepted-In Progress,complete,Anup-Org line C,2012-05-23 11:26:26+00:00,Accepted-In Progress,Anup,Org line C,1-577996886,Variant 197,197,Fluxicon Disco
+Completed-Closed,complete,Anup-Org line C,2012-05-23 11:26:40+00:00,Completed-Closed,Anup,Org line C,1-577996886,Variant 197,197,Fluxicon Disco
+Accepted-In Progress,complete,Martin-Org line C,2012-03-15 14:13:24+00:00,Accepted-In Progress,Martin,Org line C,1-698044001,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Martin-Org line C,2012-03-15 14:17:08+00:00,Queued-Awaiting Assignment,Martin,Org line C,1-698044001,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Michael-Org line C,2012-03-15 14:43:05+00:00,Accepted-In Progress,Michael,Org line C,1-698044001,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Martin-Org line C,2012-03-15 14:51:42+00:00,Accepted-Assigned,Martin,Org line C,1-698044001,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Martin-Org line C,2012-04-10 12:52:27+00:00,Accepted-In Progress,Martin,Org line C,1-698044001,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Martin-Org line C,2012-04-10 12:53:04+00:00,Completed-Closed,Martin,Org line C,1-698044001,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Anders-Org line A2,2012-04-12 13:21:26+00:00,Accepted-In Progress,Anders,Org line A2,1-717122893,Variant 9,9,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Anders-Org line A2,2012-04-12 13:23:04+00:00,Queued-Awaiting Assignment,Anders,Org line A2,1-717122893,Variant 9,9,Fluxicon Disco
+Accepted-In Progress,complete,Rafal-Org line A2,2012-04-12 13:25:53+00:00,Accepted-In Progress,Rafal,Org line A2,1-717122893,Variant 9,9,Fluxicon Disco
+Accepted-Wait,complete,Rafal-Org line A2,2012-04-18 15:06:33+00:00,Accepted-Wait,Rafal,Org line A2,1-717122893,Variant 9,9,Fluxicon Disco
+Completed-Closed,complete,Rafal-Org line A2,2012-05-23 12:25:14+00:00,Completed-Closed,Rafal,Org line A2,1-717122893,Variant 9,9,Fluxicon Disco
+Accepted-In Progress,complete,Robert-Org line C,2012-02-13 13:06:44+00:00,Accepted-In Progress,Robert,Org line C,1-672506739,Variant 271,271,Fluxicon Disco
+Accepted-Wait,complete,Robert-Org line C,2012-02-13 13:10:57+00:00,Accepted-Wait,Robert,Org line C,1-672506739,Variant 271,271,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Robert-Org line C,2012-03-07 12:20:54+00:00,Queued-Awaiting Assignment,Robert,Org line C,1-672506739,Variant 271,271,Fluxicon Disco
+Accepted-In Progress,complete,Vaibhav-Org line C,2012-03-12 18:32:08+00:00,Accepted-In Progress,Vaibhav,Org line C,1-672506739,Variant 271,271,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Amit-Org line C,2012-03-19 08:50:06+00:00,Queued-Awaiting Assignment,Amit,Org line C,1-672506739,Variant 271,271,Fluxicon Disco
+Accepted-In Progress,complete,Hineesh-Org line C,2012-04-10 11:33:37+00:00,Accepted-In Progress,Hineesh,Org line C,1-672506739,Variant 271,271,Fluxicon Disco
+Completed-Closed,complete,Hineesh-Org line C,2012-04-10 11:36:46+00:00,Completed-Closed,Hineesh,Org line C,1-672506739,Variant 271,271,Fluxicon Disco
+Accepted-In Progress,complete,Eric-Org line G4,2012-01-16 10:18:13+00:00,Accepted-In Progress,Eric,Org line G4,1-642418588,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Eric-Org line G4,2012-03-20 10:43:44+00:00,Completed-Closed,Eric,Org line G4,1-642418588,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Hineesh-Org line C,2012-03-07 13:15:19+00:00,Accepted-In Progress,Hineesh,Org line C,1-694385837,Variant 293,293,Fluxicon Disco
+Completed-Closed,complete,Hineesh-Org line C,2012-03-09 07:57:30+00:00,Completed-Closed,Hineesh,Org line C,1-694385837,Variant 293,293,Fluxicon Disco
+Accepted-In Progress,complete,Hineesh-Org line C,2012-03-26 11:48:52+00:00,Accepted-In Progress,Hineesh,Org line C,1-694385837,Variant 293,293,Fluxicon Disco
+Completed-Closed,complete,Hineesh-Org line C,2012-03-26 11:49:58+00:00,Completed-Closed,Hineesh,Org line C,1-694385837,Variant 293,293,Fluxicon Disco
+Accepted-In Progress,complete,Hineesh-Org line C,2012-03-28 11:46:45+00:00,Accepted-In Progress,Hineesh,Org line C,1-694385837,Variant 293,293,Fluxicon Disco
+Accepted-In Progress,complete,Hineesh-Org line C,2012-03-28 11:48:55+00:00,Accepted-In Progress,Hineesh,Org line C,1-694385837,Variant 293,293,Fluxicon Disco
+Completed-Closed,complete,Hineesh-Org line C,2012-03-28 11:48:56+00:00,Completed-Closed,Hineesh,Org line C,1-694385837,Variant 293,293,Fluxicon Disco
+Accepted-In Progress,complete,Hineesh-Org line C,2012-03-28 12:00:52+00:00,Accepted-In Progress,Hineesh,Org line C,1-694385837,Variant 293,293,Fluxicon Disco
+Completed-Closed,complete,Hineesh-Org line C,2012-03-28 15:42:57+00:00,Completed-Closed,Hineesh,Org line C,1-694385837,Variant 293,293,Fluxicon Disco
+Accepted-In Progress,complete,Britt-Org line A2,2011-11-30 06:54:16+00:00,Accepted-In Progress,Britt,Org line A2,1-618116069,Variant 9,9,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Britt-Org line A2,2011-11-30 07:14:54+00:00,Queued-Awaiting Assignment,Britt,Org line A2,1-618116069,Variant 9,9,Fluxicon Disco
+Accepted-In Progress,complete,Britt-Org line A2,2011-12-12 13:51:59+00:00,Accepted-In Progress,Britt,Org line A2,1-618116069,Variant 9,9,Fluxicon Disco
+Accepted-Wait,complete,Britt-Org line A2,2011-12-12 13:52:05+00:00,Accepted-Wait,Britt,Org line A2,1-618116069,Variant 9,9,Fluxicon Disco
+Completed-Closed,complete,Britt-Org line A2,2012-01-19 15:30:17+00:00,Completed-Closed,Britt,Org line A2,1-618116069,Variant 9,9,Fluxicon Disco
+Accepted-In Progress,complete,Maria-Org line A2,2012-01-13 12:40:59+00:00,Accepted-In Progress,Maria,Org line A2,1-641306231,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Maria-Org line A2,2012-01-16 11:40:15+00:00,Completed-Closed,Maria,Org line A2,1-641306231,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Per-Org line G4,2011-01-14 12:10:28+00:00,Accepted-In Progress,Per,Org line G4,1-439833168,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Per-Org line G4,2011-01-14 13:54:33+00:00,Accepted-Wait,Per,Org line G4,1-439833168,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Per-Org line G4,2012-02-29 14:27:57+00:00,Completed-Closed,Per,Org line G4,1-439833168,Variant 3,3,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-04-22 13:51:56+00:00,Accepted-In Progress,Carolyn,Org line G3,1-368929048,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-04-22 14:08:11+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-368929048,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Naga-Org line G3,2010-04-22 18:19:48+00:00,Accepted-In Progress,Naga,Org line G3,1-368929048,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-04-22 18:23:29+00:00,Accepted-Assigned,Carolyn,Org line G3,1-368929048,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-31 08:06:12+00:00,Accepted-In Progress,Ewa,Org line G3,1-368929048,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-31 08:36:08+00:00,Completed-Closed,Ewa,Org line G3,1-368929048,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Tomasz-Org line A2,2012-02-29 14:00:11+00:00,Accepted-In Progress,Tomasz,Org line A2,1-690419865,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Tomasz-Org line A2,2012-03-12 14:43:18+00:00,Accepted-Wait,Tomasz,Org line A2,1-690419865,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Tomasz-Org line A2,2012-03-27 11:33:54+00:00,Completed-Closed,Tomasz,Org line A2,1-690419865,Variant 3,3,Fluxicon Disco
+Accepted-In Progress,complete,Chew Khong-Org line C,2012-04-05 08:24:58+00:00,Accepted-In Progress,Chew Khong,Org line C,1-709479221,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Chew Khong-Org line C,2012-04-05 10:24:21+00:00,Completed-Closed,Chew Khong,Org line C,1-709479221,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Vesa-Org line C,2012-03-03 13:20:54+00:00,Accepted-In Progress,Vesa,Org line C,1-692193396,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Vesa-Org line C,2012-03-03 13:35:06+00:00,Queued-Awaiting Assignment,Vesa,Org line C,1-692193396,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Hans-Org line C,2012-03-05 09:27:35+00:00,Accepted-In Progress,Hans,Org line C,1-692193396,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Christer-Org line C,2012-03-05 09:27:48+00:00,Accepted-Assigned,Christer,Org line C,1-692193396,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Christer-Org line C,2012-05-09 14:44:08+00:00,Accepted-In Progress,Christer,Org line C,1-692193396,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Christer-Org line C,2012-05-09 14:44:09+00:00,Completed-Closed,Christer,Org line C,1-692193396,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line C,2012-02-27 13:04:57+00:00,Accepted-In Progress,Peter,Org line C,1-688509388,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line C,2012-02-28 08:53:17+00:00,Accepted-In Progress,Peter,Org line C,1-688509388,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Peter-Org line C,2012-03-05 06:36:37+00:00,Completed-Closed,Peter,Org line C,1-688509388,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Panigrahy-Org line A2,2010-03-15 13:40:16+00:00,Accepted-In Progress,Panigrahy,Org line A2,1-360464815,Variant 7,7,Fluxicon Disco
+Accepted-Wait,complete,Panigrahy-Org line A2,2010-04-15 14:32:45+00:00,Accepted-Wait,Panigrahy,Org line A2,1-360464815,Variant 7,7,Fluxicon Disco
+Accepted-In Progress,complete,Panigrahy-Org line A2,2011-06-09 09:37:15+00:00,Accepted-In Progress,Panigrahy,Org line A2,1-360464815,Variant 7,7,Fluxicon Disco
+Completed-Closed,complete,Panigrahy-Org line A2,2012-02-21 13:57:48+00:00,Completed-Closed,Panigrahy,Org line A2,1-360464815,Variant 7,7,Fluxicon Disco
+Accepted-In Progress,complete,Anders-Org line G1,2011-11-18 11:20:03+00:00,Accepted-In Progress,Anders,Org line G1,1-611632212,Variant 16,16,Fluxicon Disco
+Accepted-In Progress,complete,Anders-Org line G1,2011-12-21 13:26:03+00:00,Accepted-In Progress,Anders,Org line G1,1-611632212,Variant 16,16,Fluxicon Disco
+Accepted-Wait,complete,Anders-Org line G1,2011-12-21 13:26:22+00:00,Accepted-Wait,Anders,Org line G1,1-611632212,Variant 16,16,Fluxicon Disco
+Completed-Closed,complete,Anders-Org line G1,2012-03-14 11:04:02+00:00,Completed-Closed,Anders,Org line G1,1-611632212,Variant 16,16,Fluxicon Disco
+Accepted-In Progress,complete,Anders-Org line C,2011-12-27 06:53:22+00:00,Accepted-In Progress,Anders,Org line C,1-629642635,Variant 46,46,Fluxicon Disco
+Accepted-In Progress,complete,Anders-Org line C,2011-12-27 06:58:58+00:00,Accepted-In Progress,Anders,Org line C,1-629642635,Variant 46,46,Fluxicon Disco
+Accepted-Wait,complete,Anders-Org line C,2012-02-01 09:14:07+00:00,Accepted-Wait,Anders,Org line C,1-629642635,Variant 46,46,Fluxicon Disco
+Accepted-In Progress,complete,Anders-Org line C,2012-03-20 13:29:41+00:00,Accepted-In Progress,Anders,Org line C,1-629642635,Variant 46,46,Fluxicon Disco
+Completed-Closed,complete,Anders-Org line C,2012-03-20 13:30:25+00:00,Completed-Closed,Anders,Org line C,1-629642635,Variant 46,46,Fluxicon Disco
+Accepted-In Progress,complete,Per-Olof-Org line C,2012-04-16 08:17:43+00:00,Accepted-In Progress,Per-Olof,Org line C,1-718960811,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Per-Olof-Org line C,2012-04-16 08:22:03+00:00,Accepted-Wait,Per-Olof,Org line C,1-718960811,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Per-Olof-Org line C,2012-05-07 13:04:40+00:00,Completed-Closed,Per-Olof,Org line C,1-718960811,Variant 3,3,Fluxicon Disco
+Accepted-In Progress,complete,Britt-Org line A2,2011-12-02 09:46:41+00:00,Accepted-In Progress,Britt,Org line A2,1-619067777,Variant 26,26,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Britt-Org line A2,2011-12-02 09:47:20+00:00,Queued-Awaiting Assignment,Britt,Org line A2,1-619067777,Variant 26,26,Fluxicon Disco
+Accepted-In Progress,complete,Britt-Org line A2,2011-12-12 13:52:12+00:00,Accepted-In Progress,Britt,Org line A2,1-619067777,Variant 26,26,Fluxicon Disco
+Accepted-Wait,complete,Britt-Org line A2,2011-12-12 13:52:18+00:00,Accepted-Wait,Britt,Org line A2,1-619067777,Variant 26,26,Fluxicon Disco
+Accepted-In Progress,complete,Kwewat-Org line B,2012-01-06 05:25:12+00:00,Accepted-In Progress,Kwewat,Org line B,1-619067777,Variant 26,26,Fluxicon Disco
+Completed-Closed,complete,Kwewat-Org line B,2012-01-06 05:26:16+00:00,Completed-Closed,Kwewat,Org line B,1-619067777,Variant 26,26,Fluxicon Disco
+Accepted-In Progress,complete,Aparna-Org line A2,2011-10-14 14:45:00+00:00,Accepted-In Progress,Aparna,Org line A2,1-587337305,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Aparna-Org line A2,2012-02-09 09:19:55+00:00,Completed-Closed,Aparna,Org line A2,1-587337305,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,John-Org line C,2012-05-04 13:38:12+00:00,Accepted-In Progress,John,Org line C,1-740676462,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,John-Org line C,2012-05-09 13:49:54+00:00,Completed-Closed,John,Org line C,1-740676462,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Praveen-Org line C,2012-03-14 14:00:26+00:00,Accepted-In Progress,Praveen,Org line C,1-697458590,Variant 299,299,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Praveen-Org line C,2012-03-14 14:20:07+00:00,Queued-Awaiting Assignment,Praveen,Org line C,1-697458590,Variant 299,299,Fluxicon Disco
+Accepted-In Progress,complete,Neeraj-Org line C,2012-03-14 14:36:41+00:00,Accepted-In Progress,Neeraj,Org line C,1-697458590,Variant 299,299,Fluxicon Disco
+Accepted-Assigned,complete,Rohit-Org line C,2012-03-14 14:52:11+00:00,Accepted-Assigned,Rohit,Org line C,1-697458590,Variant 299,299,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Martin-Org line C,2012-03-15 11:43:32+00:00,Queued-Awaiting Assignment,Martin,Org line C,1-697458590,Variant 299,299,Fluxicon Disco
+Accepted-Assigned,complete,Lennart-Org line C,2012-03-15 14:41:16+00:00,Accepted-Assigned,Lennart,Org line C,1-697458590,Variant 299,299,Fluxicon Disco
+Accepted-In Progress,complete,Lennart-Org line C,2012-03-16 11:22:28+00:00,Accepted-In Progress,Lennart,Org line C,1-697458590,Variant 299,299,Fluxicon Disco
+Accepted-In Progress,complete,Michael-Org line C,2012-03-16 11:46:28+00:00,Accepted-In Progress,Michael,Org line C,1-697458590,Variant 299,299,Fluxicon Disco
+Accepted-Assigned,complete,Steve-Org line C,2012-03-16 11:48:25+00:00,Accepted-Assigned,Steve,Org line C,1-697458590,Variant 299,299,Fluxicon Disco
+Accepted-Wait,complete,Steve-Org line C,2012-03-16 11:49:45+00:00,Accepted-Wait,Steve,Org line C,1-697458590,Variant 299,299,Fluxicon Disco
+Completed-Closed,complete,Steve-Org line C,2012-05-07 12:28:53+00:00,Completed-Closed,Steve,Org line C,1-697458590,Variant 299,299,Fluxicon Disco
+Accepted-In Progress,complete,Vinay-Org line C,2011-11-16 16:09:39+00:00,Accepted-In Progress,Vinay,Org line C,1-609011164,Variant 5,5,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Vinay-Org line C,2011-11-16 16:39:55+00:00,Queued-Awaiting Assignment,Vinay,Org line C,1-609011164,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Avishek-Org line C,2011-12-19 14:57:47+00:00,Accepted-In Progress,Avishek,Org line C,1-609011164,Variant 5,5,Fluxicon Disco
+Completed-Closed,complete,Avishek-Org line C,2012-01-04 13:30:41+00:00,Completed-Closed,Avishek,Org line C,1-609011164,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Bart-Org line C,2011-12-27 07:06:43+00:00,Accepted-In Progress,Bart,Org line C,1-629618537,Variant 6,6,Fluxicon Disco
+Accepted-Assigned,complete,Bart-Org line C,2011-12-27 07:07:18+00:00,Accepted-Assigned,Bart,Org line C,1-629618537,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Hugo-Org line C,2012-02-08 10:33:09+00:00,Accepted-In Progress,Hugo,Org line C,1-629618537,Variant 6,6,Fluxicon Disco
+Completed-Closed,complete,Hugo-Org line C,2012-02-08 10:40:32+00:00,Completed-Closed,Hugo,Org line C,1-629618537,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Grzegorz-Org line A2,2011-07-07 12:06:28+00:00,Accepted-In Progress,Grzegorz,Org line A2,1-539752329,Variant 7,7,Fluxicon Disco
+Accepted-Wait,complete,Grzegorz-Org line A2,2011-07-07 12:19:04+00:00,Accepted-Wait,Grzegorz,Org line A2,1-539752329,Variant 7,7,Fluxicon Disco
+Accepted-In Progress,complete,Grzegorz-Org line A2,2012-01-04 11:31:39+00:00,Accepted-In Progress,Grzegorz,Org line A2,1-539752329,Variant 7,7,Fluxicon Disco
+Completed-Closed,complete,Grzegorz-Org line A2,2012-01-04 11:32:34+00:00,Completed-Closed,Grzegorz,Org line A2,1-539752329,Variant 7,7,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-03-01 05:54:12+00:00,Accepted-In Progress,Carolyn,Org line G3,1-357087417,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-03-01 06:04:33+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-357087417,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Naga-Org line G3,2010-03-01 10:53:51+00:00,Accepted-In Progress,Naga,Org line G3,1-357087417,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-03-01 11:00:54+00:00,Accepted-Assigned,Carolyn,Org line G3,1-357087417,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2011-12-28 15:01:17+00:00,Accepted-In Progress,Ewa,Org line G3,1-357087417,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-30 11:30:21+00:00,Completed-Closed,Ewa,Org line G3,1-357087417,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Kerri-Org line C,2011-08-26 11:54:09+00:00,Queued-Awaiting Assignment,Kerri,Org line C,1-562778111,Variant 185,185,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Jerry-Org line A2,2011-09-22 17:13:26+00:00,Queued-Awaiting Assignment,Jerry,Org line A2,1-562778111,Variant 185,185,Fluxicon Disco
+Accepted-Assigned,complete,Lorre-Org line A2,2011-11-10 20:05:21+00:00,Accepted-Assigned,Lorre,Org line A2,1-562778111,Variant 185,185,Fluxicon Disco
+Completed-Closed,complete,Lorre-Org line A2,2012-01-26 21:01:29+00:00,Completed-Closed,Lorre,Org line A2,1-562778111,Variant 185,185,Fluxicon Disco
+Accepted-In Progress,complete,Joris-Org line A2,2012-05-03 14:24:57+00:00,Accepted-In Progress,Joris,Org line A2,1-739606545,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Joris-Org line A2,2012-05-03 14:34:02+00:00,Completed-Closed,Joris,Org line A2,1-739606545,Variant 1,1,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Robert-Org line C,2011-11-01 15:12:37+00:00,Queued-Awaiting Assignment,Robert,Org line C,1-599626401,Variant 214,214,Fluxicon Disco
+Accepted-Assigned,complete,Joshua-Org line C,2011-11-07 07:23:28+00:00,Accepted-Assigned,Joshua,Org line C,1-599626401,Variant 214,214,Fluxicon Disco
+Accepted-In Progress,complete,Robert-Org line C,2012-01-06 17:54:50+00:00,Accepted-In Progress,Robert,Org line C,1-599626401,Variant 214,214,Fluxicon Disco
+Completed-Closed,complete,Robert-Org line C,2012-01-06 17:56:19+00:00,Completed-Closed,Robert,Org line C,1-599626401,Variant 214,214,Fluxicon Disco
+Accepted-In Progress,complete,Prasad-Org line C,2011-12-01 16:34:34+00:00,Accepted-In Progress,Prasad,Org line C,1-618859631,Variant 230,230,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Prasad-Org line C,2011-12-01 16:35:30+00:00,Queued-Awaiting Assignment,Prasad,Org line C,1-618859631,Variant 230,230,Fluxicon Disco
+Accepted-In Progress,complete,Manoj-Org line C,2011-12-01 16:44:11+00:00,Accepted-In Progress,Manoj,Org line C,1-618859631,Variant 230,230,Fluxicon Disco
+Accepted-Wait,complete,Manoj-Org line C,2011-12-01 16:50:49+00:00,Accepted-Wait,Manoj,Org line C,1-618859631,Variant 230,230,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Frederic-Org line A2,2011-12-05 13:44:20+00:00,Queued-Awaiting Assignment,Frederic,Org line A2,1-618859631,Variant 230,230,Fluxicon Disco
+Accepted-In Progress,complete,Frederic-Org line A2,2011-12-12 14:29:04+00:00,Accepted-In Progress,Frederic,Org line A2,1-618859631,Variant 230,230,Fluxicon Disco
+Completed-Closed,complete,Frederic-Org line A2,2012-01-19 08:11:19+00:00,Completed-Closed,Frederic,Org line A2,1-618859631,Variant 230,230,Fluxicon Disco
+Accepted-In Progress,complete,Frederic-Org line A2,2012-01-19 08:11:24+00:00,Accepted-In Progress,Frederic,Org line A2,1-618859631,Variant 230,230,Fluxicon Disco
+Completed-Closed,complete,Frederic-Org line A2,2012-01-19 08:11:34+00:00,Completed-Closed,Frederic,Org line A2,1-618859631,Variant 230,230,Fluxicon Disco
+Accepted-In Progress,complete,Agoritsa-Org line A2,2012-01-25 07:42:51+00:00,Accepted-In Progress,Agoritsa,Org line A2,1-651922594,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Agoritsa-Org line A2,2012-01-25 09:27:29+00:00,Completed-Closed,Agoritsa,Org line A2,1-651922594,Variant 1,1,Fluxicon Disco
+Accepted-Wait,complete,Amit-Org line C,2011-07-13 09:38:58+00:00,Accepted-Wait,Amit,Org line C,1-541088014,Variant 76,76,Fluxicon Disco
+Accepted-Assigned,complete,Amit-Org line C,2011-07-13 09:39:36+00:00,Accepted-Assigned,Amit,Org line C,1-541088014,Variant 76,76,Fluxicon Disco
+Accepted-In Progress,complete,Amit-Org line C,2011-09-19 13:08:35+00:00,Accepted-In Progress,Amit,Org line C,1-541088014,Variant 76,76,Fluxicon Disco
+Completed-Closed,complete,Amit-Org line C,2012-02-29 11:13:57+00:00,Completed-Closed,Amit,Org line C,1-541088014,Variant 76,76,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-08-25 09:29:56+00:00,Accepted-In Progress,Carolyn,Org line G3,1-562022682,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-08-25 09:57:27+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-562022682,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Kannan-Org line G3,2011-08-25 14:56:52+00:00,Accepted-In Progress,Kannan,Org line G3,1-562022682,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-08-25 14:57:00+00:00,Accepted-Assigned,Carolyn,Org line G3,1-562022682,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-06 19:58:18+00:00,Accepted-In Progress,Ewa,Org line G3,1-562022682,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-02-06 19:59:21+00:00,Completed-Closed,Ewa,Org line G3,1-562022682,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Karrthik-Org line C,2012-01-30 10:16:44+00:00,Accepted-In Progress,Karrthik,Org line C,1-655235043,Variant 264,264,Fluxicon Disco
+Accepted-Wait,complete,Karrthik-Org line C,2012-01-30 10:17:24+00:00,Accepted-Wait,Karrthik,Org line C,1-655235043,Variant 264,264,Fluxicon Disco
+Accepted-In Progress,complete,Karrthik-Org line C,2012-02-13 17:46:40+00:00,Accepted-In Progress,Karrthik,Org line C,1-655235043,Variant 264,264,Fluxicon Disco
+Completed-Closed,complete,Karrthik-Org line C,2012-02-13 17:46:49+00:00,Completed-Closed,Karrthik,Org line C,1-655235043,Variant 264,264,Fluxicon Disco
+Accepted-In Progress,complete,Karrthik-Org line C,2012-02-27 15:32:53+00:00,Accepted-In Progress,Karrthik,Org line C,1-655235043,Variant 264,264,Fluxicon Disco
+Accepted-Wait,complete,Karrthik-Org line C,2012-02-27 15:34:24+00:00,Accepted-Wait,Karrthik,Org line C,1-655235043,Variant 264,264,Fluxicon Disco
+Completed-Closed,complete,Karrthik-Org line C,2012-02-29 09:51:23+00:00,Completed-Closed,Karrthik,Org line C,1-655235043,Variant 264,264,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-04-26 14:41:03+00:00,Accepted-In Progress,Carolyn,Org line G3,1-369693874,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-04-26 14:44:34+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-369693874,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Naga-Org line G3,2010-04-26 18:08:15+00:00,Accepted-In Progress,Naga,Org line G3,1-369693874,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-04-26 18:12:24+00:00,Accepted-Assigned,Carolyn,Org line G3,1-369693874,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2011-12-20 21:24:04+00:00,Accepted-In Progress,Ewa,Org line G3,1-369693874,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-05 15:11:34+00:00,Completed-Closed,Ewa,Org line G3,1-369693874,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Alain-Org line C,2011-12-16 09:40:07+00:00,Accepted-In Progress,Alain,Org line C,1-624845426,Variant 5,5,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Alain-Org line C,2011-12-16 09:40:33+00:00,Queued-Awaiting Assignment,Alain,Org line C,1-624845426,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Alain-Org line C,2012-01-13 08:39:30+00:00,Accepted-In Progress,Alain,Org line C,1-624845426,Variant 5,5,Fluxicon Disco
+Completed-Closed,complete,Alain-Org line C,2012-01-13 09:26:23+00:00,Completed-Closed,Alain,Org line C,1-624845426,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Agneta-Org line A2,2011-01-13 09:01:34+00:00,Accepted-In Progress,Agneta,Org line A2,1-438897551,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Agneta-Org line A2,2012-01-10 11:24:45+00:00,Completed-Closed,Agneta,Org line A2,1-438897551,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Åsa-Org line A2,2012-05-15 13:47:11+00:00,Accepted-In Progress,Åsa,Org line A2,1-745590142,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Åsa-Org line A2,2012-05-31 12:34:39+00:00,Completed-Closed,Åsa,Org line A2,1-745590142,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Donald-Org line C,2012-04-09 16:18:44+00:00,Accepted-In Progress,Donald,Org line C,1-712972277,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Donald-Org line C,2012-04-09 16:22:22+00:00,Completed-Closed,Donald,Org line C,1-712972277,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Yvonne-Org line A2,2011-09-21 14:10:26+00:00,Accepted-In Progress,Yvonne,Org line A2,1-576423636,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Yvonne-Org line A2,2012-01-18 11:47:25+00:00,Accepted-In Progress,Yvonne,Org line A2,1-576423636,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Yvonne-Org line A2,2012-01-18 11:47:27+00:00,Completed-Closed,Yvonne,Org line A2,1-576423636,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Ann-Org line A2,2012-01-09 08:07:32+00:00,Accepted-In Progress,Ann,Org line A2,1-636867758,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ann-Org line A2,2012-03-30 11:14:54+00:00,Completed-Closed,Ann,Org line A2,1-636867758,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Yann-Org line C,2011-11-18 10:35:36+00:00,Accepted-In Progress,Yann,Org line C,1-611651603,Variant 7,7,Fluxicon Disco
+Accepted-Wait,complete,Yann-Org line C,2011-11-18 10:38:20+00:00,Accepted-Wait,Yann,Org line C,1-611651603,Variant 7,7,Fluxicon Disco
+Accepted-In Progress,complete,Yann-Org line C,2011-11-18 11:32:43+00:00,Accepted-In Progress,Yann,Org line C,1-611651603,Variant 7,7,Fluxicon Disco
+Completed-Closed,complete,Yann-Org line C,2012-02-15 13:07:13+00:00,Completed-Closed,Yann,Org line C,1-611651603,Variant 7,7,Fluxicon Disco
+Accepted-In Progress,complete,Daniel-Org line C,2011-06-20 10:01:18+00:00,Accepted-In Progress,Daniel,Org line C,1-535052125,Variant 167,167,Fluxicon Disco
+Accepted-Wait,complete,Daniel-Org line C,2011-09-08 10:40:35+00:00,Accepted-Wait,Daniel,Org line C,1-535052125,Variant 167,167,Fluxicon Disco
+Accepted-In Progress,complete,Daniel-Org line C,2011-09-13 08:53:29+00:00,Accepted-In Progress,Daniel,Org line C,1-535052125,Variant 167,167,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Siddharth-Org line A2,2011-09-13 09:18:48+00:00,Queued-Awaiting Assignment,Siddharth,Org line A2,1-535052125,Variant 167,167,Fluxicon Disco
+Accepted-In Progress,complete,Surya-Org line A2,2011-09-14 07:15:06+00:00,Accepted-In Progress,Surya,Org line A2,1-535052125,Variant 167,167,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Per-Erik-Org line C,2011-09-14 07:16:17+00:00,Queued-Awaiting Assignment,Per-Erik,Org line C,1-535052125,Variant 167,167,Fluxicon Disco
+Accepted-In Progress,complete,Devakumar-Org line C,2011-09-14 09:34:19+00:00,Accepted-In Progress,Devakumar,Org line C,1-535052125,Variant 167,167,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Peter-Org line C,2011-09-14 10:48:48+00:00,Queued-Awaiting Assignment,Peter,Org line C,1-535052125,Variant 167,167,Fluxicon Disco
+Accepted-In Progress,complete,Daniel-Org line C,2011-09-14 13:34:38+00:00,Accepted-In Progress,Daniel,Org line C,1-535052125,Variant 167,167,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Per-Erik-Org line C,2011-09-14 13:40:59+00:00,Queued-Awaiting Assignment,Per-Erik,Org line C,1-535052125,Variant 167,167,Fluxicon Disco
+Accepted-In Progress,complete,Daniel-Org line C,2011-09-14 13:42:24+00:00,Accepted-In Progress,Daniel,Org line C,1-535052125,Variant 167,167,Fluxicon Disco
+Accepted-Assigned,complete,Claes-Org line C,2011-09-14 14:16:19+00:00,Accepted-Assigned,Claes,Org line C,1-535052125,Variant 167,167,Fluxicon Disco
+Accepted-In Progress,complete,Daniel-Org line C,2012-01-17 12:13:47+00:00,Accepted-In Progress,Daniel,Org line C,1-535052125,Variant 167,167,Fluxicon Disco
+Completed-Closed,complete,Daniel-Org line C,2012-01-17 12:15:49+00:00,Completed-Closed,Daniel,Org line C,1-535052125,Variant 167,167,Fluxicon Disco
+Accepted-In Progress,complete,Daniel-Org line G4,2010-03-03 18:25:03+00:00,Accepted-In Progress,Daniel,Org line G4,1-358038911,Variant 96,96,Fluxicon Disco
+Unmatched-Unmatched,complete,Daniel-Org line G4,2010-03-11 14:44:02+00:00,Unmatched-Unmatched,Daniel,Org line G4,1-358038911,Variant 96,96,Fluxicon Disco
+Accepted-In Progress,complete,Daniel-Org line G4,2010-08-16 09:54:31+00:00,Accepted-In Progress,Daniel,Org line G4,1-358038911,Variant 96,96,Fluxicon Disco
+Accepted-Wait,complete,Daniel-Org line G4,2010-08-16 10:13:10+00:00,Accepted-Wait,Daniel,Org line G4,1-358038911,Variant 96,96,Fluxicon Disco
+Accepted-In Progress,complete,Helene-Org line G4,2012-01-17 06:59:31+00:00,Accepted-In Progress,Helene,Org line G4,1-358038911,Variant 96,96,Fluxicon Disco
+Completed-Closed,complete,Helene-Org line G4,2012-01-17 06:59:59+00:00,Completed-Closed,Helene,Org line G4,1-358038911,Variant 96,96,Fluxicon Disco
+Accepted-In Progress,complete,Jitender-Org line C,2012-01-09 09:19:06+00:00,Accepted-In Progress,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Accepted-In Progress,complete,Jitender-Org line C,2012-01-09 09:21:20+00:00,Accepted-In Progress,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Accepted-In Progress,complete,Jitender-Org line C,2012-01-09 10:44:21+00:00,Accepted-In Progress,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Prasad-Org line C,2012-01-09 10:45:27+00:00,Queued-Awaiting Assignment,Prasad,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Accepted-In Progress,complete,Jitender-Org line C,2012-01-09 10:45:51+00:00,Accepted-In Progress,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Prasad-Org line C,2012-01-09 10:46:05+00:00,Queued-Awaiting Assignment,Prasad,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Accepted-In Progress,complete,Jitender-Org line C,2012-01-09 10:46:41+00:00,Accepted-In Progress,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Completed-Closed,complete,Jitender-Org line C,2012-01-09 11:59:51+00:00,Completed-Closed,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Accepted-In Progress,complete,Jitender-Org line C,2012-01-24 13:00:13+00:00,Accepted-In Progress,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Prasad-Org line C,2012-01-24 13:05:59+00:00,Queued-Awaiting Assignment,Prasad,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Accepted-In Progress,complete,Jitender-Org line C,2012-01-24 13:06:00+00:00,Accepted-In Progress,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Accepted-In Progress,complete,Jitender-Org line C,2012-01-24 13:07:11+00:00,Accepted-In Progress,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Completed-Closed,complete,Jitender-Org line C,2012-01-24 13:23:47+00:00,Completed-Closed,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Accepted-In Progress,complete,Jitender-Org line C,2012-02-09 09:00:51+00:00,Accepted-In Progress,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Accepted-Assigned,complete,Prasad-Org line C,2012-02-09 09:01:34+00:00,Accepted-Assigned,Prasad,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Accepted-In Progress,complete,Jitender-Org line C,2012-02-09 09:01:40+00:00,Accepted-In Progress,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Completed-Closed,complete,Jitender-Org line C,2012-02-09 09:14:43+00:00,Completed-Closed,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Accepted-In Progress,complete,Jitender-Org line C,2012-02-09 10:35:52+00:00,Accepted-In Progress,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Completed-Closed,complete,Jitender-Org line C,2012-02-09 10:37:52+00:00,Completed-Closed,Jitender,Org line C,1-636931254,Variant 252,252,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-06-14 07:56:53+00:00,Accepted-In Progress,Carolyn,Org line G3,1-533449912,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-06-14 08:03:42+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-533449912,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Santhosh-Org line G3,2011-06-16 10:08:13+00:00,Accepted-In Progress,Santhosh,Org line G3,1-533449912,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-06-16 10:09:31+00:00,Accepted-Assigned,Carolyn,Org line G3,1-533449912,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-30 12:08:15+00:00,Accepted-In Progress,Ewa,Org line G3,1-533449912,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-30 12:08:58+00:00,Completed-Closed,Ewa,Org line G3,1-533449912,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Stefan-Org line C,2011-05-10 08:25:34+00:00,Accepted-Assigned,Stefan,Org line C,1-524375607,Variant 162,162,Fluxicon Disco
+Accepted-Assigned,complete,Els-Org line C,2011-10-05 06:38:35+00:00,Accepted-Assigned,Els,Org line C,1-524375607,Variant 162,162,Fluxicon Disco
+Accepted-Assigned,complete,Jo-Org line C,2011-10-05 07:03:00+00:00,Accepted-Assigned,Jo,Org line C,1-524375607,Variant 162,162,Fluxicon Disco
+Accepted-In Progress,complete,Jo-Org line C,2011-11-08 13:44:51+00:00,Accepted-In Progress,Jo,Org line C,1-524375607,Variant 162,162,Fluxicon Disco
+Completed-Closed,complete,Jo-Org line C,2012-04-10 15:19:54+00:00,Completed-Closed,Jo,Org line C,1-524375607,Variant 162,162,Fluxicon Disco
+Accepted-In Progress,complete,Mariusz-Org line C,2012-03-13 13:15:36+00:00,Accepted-In Progress,Mariusz,Org line C,1-696695427,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Mariusz-Org line C,2012-04-04 09:27:58+00:00,Completed-Closed,Mariusz,Org line C,1-696695427,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-04-28 09:49:58+00:00,Accepted-In Progress,Carolyn,Org line G3,1-521431857,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-04-28 09:54:58+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-521431857,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Padmanabha-Org line G3,2011-04-28 09:59:18+00:00,Accepted-In Progress,Padmanabha,Org line G3,1-521431857,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-04-28 09:59:26+00:00,Accepted-Assigned,Carolyn,Org line G3,1-521431857,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-30 20:56:57+00:00,Accepted-In Progress,Ewa,Org line G3,1-521431857,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-30 21:01:30+00:00,Completed-Closed,Ewa,Org line G3,1-521431857,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Marc-Org line F,2012-03-13 08:23:05+00:00,Accepted-In Progress,Marc,Org line F,1-696616111,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Marc-Org line F,2012-03-13 08:28:27+00:00,Completed-Closed,Marc,Org line F,1-696616111,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Fredrik-Org line G4,2011-12-02 13:17:15+00:00,Accepted-In Progress,Fredrik,Org line G4,1-619201265,Variant 6,6,Fluxicon Disco
+Accepted-Assigned,complete,Fredrik-Org line G4,2012-01-16 12:49:25+00:00,Accepted-Assigned,Fredrik,Org line G4,1-619201265,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Helene-Org line G4,2012-01-17 08:16:19+00:00,Accepted-In Progress,Helene,Org line G4,1-619201265,Variant 6,6,Fluxicon Disco
+Completed-Closed,complete,Helene-Org line G4,2012-01-17 08:16:30+00:00,Completed-Closed,Helene,Org line G4,1-619201265,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Bengt-Org line C,2010-12-22 12:09:10+00:00,Accepted-In Progress,Bengt,Org line C,1-432687815,Variant 6,6,Fluxicon Disco
+Accepted-Assigned,complete,Bengt-Org line C,2010-12-22 12:16:21+00:00,Accepted-Assigned,Bengt,Org line C,1-432687815,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Bengt-Org line C,2011-08-31 09:03:38+00:00,Accepted-In Progress,Bengt,Org line C,1-432687815,Variant 6,6,Fluxicon Disco
+Completed-Closed,complete,Bengt-Org line C,2012-04-02 08:35:12+00:00,Completed-Closed,Bengt,Org line C,1-432687815,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Samira-Org line G4,2012-03-14 10:56:15+00:00,Accepted-In Progress,Samira,Org line G4,1-697366925,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Samira-Org line G4,2012-04-23 13:52:14+00:00,Completed-Closed,Samira,Org line G4,1-697366925,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line G4,2011-08-09 15:54:06+00:00,Accepted-In Progress,Peter,Org line G4,1-546693092,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Peter-Org line G4,2012-01-03 15:04:17+00:00,Completed-Closed,Peter,Org line G4,1-546693092,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,John-Org line C,2011-12-05 11:35:14+00:00,Accepted-In Progress,John,Org line C,1-619719949,Variant 41,41,Fluxicon Disco
+Queued-Awaiting Assignment,complete,John-Org line C,2011-12-05 12:02:06+00:00,Queued-Awaiting Assignment,John,Org line C,1-619719949,Variant 41,41,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Mica-Org line C,2011-12-06 07:23:22+00:00,Queued-Awaiting Assignment,Mica,Org line C,1-619719949,Variant 41,41,Fluxicon Disco
+Accepted-In Progress,complete,Mica-Org line C,2011-12-08 06:48:30+00:00,Accepted-In Progress,Mica,Org line C,1-619719949,Variant 41,41,Fluxicon Disco
+Queued-Awaiting Assignment,complete,John-Org line C,2011-12-09 11:59:13+00:00,Queued-Awaiting Assignment,John,Org line C,1-619719949,Variant 41,41,Fluxicon Disco
+Accepted-In Progress,complete,John-Org line C,2011-12-09 12:00:14+00:00,Accepted-In Progress,John,Org line C,1-619719949,Variant 41,41,Fluxicon Disco
+Completed-Closed,complete,John-Org line C,2012-03-22 07:54:05+00:00,Completed-Closed,John,Org line C,1-619719949,Variant 41,41,Fluxicon Disco
+Accepted-In Progress,complete,Bharani-Org line C,2012-03-05 22:30:17+00:00,Accepted-In Progress,Bharani,Org line C,1-693456968,Variant 31,31,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Bharani-Org line C,2012-03-05 22:35:32+00:00,Queued-Awaiting Assignment,Bharani,Org line C,1-693456968,Variant 31,31,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Marilyn-Org line B,2012-04-16 11:33:54+00:00,Queued-Awaiting Assignment,Marilyn,Org line B,1-693456968,Variant 31,31,Fluxicon Disco
+Accepted-In Progress,complete,Marilyn-Org line B,2012-05-10 02:11:34+00:00,Accepted-In Progress,Marilyn,Org line B,1-693456968,Variant 31,31,Fluxicon Disco
+Completed-Closed,complete,Marilyn-Org line B,2012-05-10 02:16:00+00:00,Completed-Closed,Marilyn,Org line B,1-693456968,Variant 31,31,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2011-12-08 12:23:24+00:00,Accepted-In Progress,Ewa,Org line G3,1-621023087,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-03 10:07:51+00:00,Completed-Closed,Ewa,Org line G3,1-621023087,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Sandra-Org line C,2011-11-03 08:48:02+00:00,Accepted-In Progress,Sandra,Org line C,1-601400851,Variant 11,11,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Sandra-Org line C,2011-12-07 14:01:12+00:00,Queued-Awaiting Assignment,Sandra,Org line C,1-601400851,Variant 11,11,Fluxicon Disco
+Accepted-In Progress,complete,Andrzej-Org line A2,2011-12-07 14:01:20+00:00,Accepted-In Progress,Andrzej,Org line A2,1-601400851,Variant 11,11,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Cyril-Org line C,2011-12-07 14:04:17+00:00,Queued-Awaiting Assignment,Cyril,Org line C,1-601400851,Variant 11,11,Fluxicon Disco
+Accepted-In Progress,complete,Cyril-Org line C,2012-01-10 15:27:44+00:00,Accepted-In Progress,Cyril,Org line C,1-601400851,Variant 11,11,Fluxicon Disco
+Completed-Closed,complete,Cyril-Org line C,2012-01-10 15:29:11+00:00,Completed-Closed,Cyril,Org line C,1-601400851,Variant 11,11,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-05-05 11:44:03+00:00,Accepted-In Progress,Carolyn,Org line G3,1-371672096,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-05-05 12:24:34+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-371672096,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Kannan-Org line G3,2010-05-05 14:09:25+00:00,Accepted-In Progress,Kannan,Org line G3,1-371672096,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-05-05 14:09:30+00:00,Accepted-Assigned,Carolyn,Org line G3,1-371672096,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-04 07:57:22+00:00,Accepted-In Progress,Ewa,Org line G3,1-371672096,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-02-04 08:10:51+00:00,Completed-Closed,Ewa,Org line G3,1-371672096,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Per-Org line G4,2011-03-07 11:36:20+00:00,Accepted-In Progress,Per,Org line G4,1-506092586,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Per-Org line G4,2012-01-26 10:25:15+00:00,Completed-Closed,Per,Org line G4,1-506092586,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Rickard-Org line G4,2012-01-13 07:04:43+00:00,Accepted-In Progress,Rickard,Org line G4,1-641023492,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Rickard-Org line G4,2012-01-26 12:51:59+00:00,Completed-Closed,Rickard,Org line G4,1-641023492,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-04-18 09:16:21+00:00,Accepted-In Progress,Carolyn,Org line G3,1-517828743,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-04-18 10:54:06+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-517828743,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Padmanabha-Org line G3,2011-04-18 11:19:38+00:00,Accepted-In Progress,Padmanabha,Org line G3,1-517828743,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-04-18 11:19:46+00:00,Accepted-Assigned,Carolyn,Org line G3,1-517828743,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-30 11:58:22+00:00,Accepted-In Progress,Ewa,Org line G3,1-517828743,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-30 11:58:41+00:00,Completed-Closed,Ewa,Org line G3,1-517828743,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ahmad-Org line C,2012-02-29 12:11:36+00:00,Accepted-In Progress,Ahmad,Org line C,1-690190570,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Ahmad-Org line C,2012-03-14 15:20:08+00:00,Accepted-Wait,Ahmad,Org line C,1-690190570,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Ahmad-Org line C,2012-04-30 14:26:59+00:00,Completed-Closed,Ahmad,Org line C,1-690190570,Variant 3,3,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-04-14 09:27:54+00:00,Accepted-In Progress,Carolyn,Org line G3,1-366923538,Variant 60,60,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-04-14 09:47:49+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-366923538,Variant 60,60,Fluxicon Disco
+Accepted-In Progress,complete,Niklas-Org line A2,2010-04-14 09:47:50+00:00,Accepted-In Progress,Niklas,Org line A2,1-366923538,Variant 60,60,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-04-14 09:54:25+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-366923538,Variant 60,60,Fluxicon Disco
+Accepted-In Progress,complete,Naga-Org line G3,2010-04-14 17:58:53+00:00,Accepted-In Progress,Naga,Org line G3,1-366923538,Variant 60,60,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-04-14 18:09:15+00:00,Accepted-Assigned,Carolyn,Org line G3,1-366923538,Variant 60,60,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-04 15:55:26+00:00,Accepted-In Progress,Ewa,Org line G3,1-366923538,Variant 60,60,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-30 13:05:58+00:00,Completed-Closed,Ewa,Org line G3,1-366923538,Variant 60,60,Fluxicon Disco
+Accepted-In Progress,complete,Gilles-Org line C,2011-04-20 10:22:30+00:00,Accepted-In Progress,Gilles,Org line C,1-519020627,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Gilles-Org line C,2012-04-18 13:18:29+00:00,Completed-Closed,Gilles,Org line C,1-519020627,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line C,2012-03-14 13:59:11+00:00,Accepted-In Progress,Peter,Org line C,1-697260307,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line C,2012-04-03 13:42:42+00:00,Accepted-In Progress,Peter,Org line C,1-697260307,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Peter-Org line C,2012-05-03 09:32:22+00:00,Completed-Closed,Peter,Org line C,1-697260307,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-05-31 18:07:59+00:00,Accepted-In Progress,Ewa,Org line G3,1-752835764,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-05-31 18:09:21+00:00,Completed-Closed,Ewa,Org line G3,1-752835764,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Bharath-Org line G4,2012-03-01 15:18:31+00:00,Accepted-In Progress,Bharath,Org line G4,1-691031201,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Bharath-Org line G4,2012-03-01 15:18:58+00:00,Completed-Closed,Bharath,Org line G4,1-691031201,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Bruno-Org line C,2012-01-12 11:24:50+00:00,Accepted-In Progress,Bruno,Org line C,1-640059801,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Bruno-Org line C,2012-01-12 11:26:04+00:00,Completed-Closed,Bruno,Org line C,1-640059801,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Ramith-Org line C,2012-01-17 12:09:37+00:00,Accepted-In Progress,Ramith,Org line C,1-643556695,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ramith-Org line C,2012-02-23 08:11:36+00:00,Completed-Closed,Ramith,Org line C,1-643556695,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Ala-Org line A2,2012-04-03 11:25:45+00:00,Accepted-In Progress,Ala,Org line A2,1-707708844,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ala-Org line A2,2012-05-09 11:03:49+00:00,Completed-Closed,Ala,Org line A2,1-707708844,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Suzanne-Org line V2,2011-09-30 13:56:38+00:00,Accepted-In Progress,Suzanne,Org line V2,1-579517011,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Suzanne-Org line V2,2012-01-19 16:16:24+00:00,Accepted-Wait,Suzanne,Org line V2,1-579517011,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Suzanne-Org line V2,2012-04-11 09:02:18+00:00,Completed-Closed,Suzanne,Org line V2,1-579517011,Variant 3,3,Fluxicon Disco
+Accepted-In Progress,complete,Kymaria-Org line C,2011-03-15 19:45:17+00:00,Accepted-In Progress,Kymaria,Org line C,1-508044897,Variant 154,154,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Kymaria-Org line C,2011-03-18 15:20:08+00:00,Queued-Awaiting Assignment,Kymaria,Org line C,1-508044897,Variant 154,154,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Per-Erik-Org line C,2011-03-24 17:20:41+00:00,Queued-Awaiting Assignment,Per-Erik,Org line C,1-508044897,Variant 154,154,Fluxicon Disco
+Accepted-In Progress,complete,Kymaria-Org line C,2011-03-24 18:28:23+00:00,Accepted-In Progress,Kymaria,Org line C,1-508044897,Variant 154,154,Fluxicon Disco
+Accepted-Wait,complete,Kymaria-Org line C,2011-03-24 18:30:00+00:00,Accepted-Wait,Kymaria,Org line C,1-508044897,Variant 154,154,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Per-Erik-Org line C,2011-04-06 13:39:36+00:00,Queued-Awaiting Assignment,Per-Erik,Org line C,1-508044897,Variant 154,154,Fluxicon Disco
+Accepted-In Progress,complete,Per-Erik-Org line C,2011-04-06 14:15:00+00:00,Accepted-In Progress,Per-Erik,Org line C,1-508044897,Variant 154,154,Fluxicon Disco
+Completed-Closed,complete,Per-Erik-Org line C,2012-03-15 12:12:23+00:00,Completed-Closed,Per-Erik,Org line C,1-508044897,Variant 154,154,Fluxicon Disco
+Accepted-In Progress,complete,Asmita-Org line C,2011-11-21 15:02:34+00:00,Accepted-In Progress,Asmita,Org line C,1-613364032,Variant 223,223,Fluxicon Disco
+Accepted-In Progress,complete,Asmita-Org line C,2011-11-21 15:04:07+00:00,Accepted-In Progress,Asmita,Org line C,1-613364032,Variant 223,223,Fluxicon Disco
+Accepted-Wait,complete,Asmita-Org line C,2012-01-16 06:53:42+00:00,Accepted-Wait,Asmita,Org line C,1-613364032,Variant 223,223,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Francois-Org line C,2012-02-21 05:53:58+00:00,Queued-Awaiting Assignment,Francois,Org line C,1-613364032,Variant 223,223,Fluxicon Disco
+Accepted-In Progress,complete,Vincent-Org line C,2012-02-21 06:40:48+00:00,Accepted-In Progress,Vincent,Org line C,1-613364032,Variant 223,223,Fluxicon Disco
+Queued-Awaiting Assignment,complete,--Org line C,2012-02-21 10:11:30+00:00,Queued-Awaiting Assignment,-,Org line C,1-613364032,Variant 223,223,Fluxicon Disco
+Accepted-In Progress,complete,Asmita-Org line C,2012-02-27 10:04:23+00:00,Accepted-In Progress,Asmita,Org line C,1-613364032,Variant 223,223,Fluxicon Disco
+Completed-Closed,complete,Asmita-Org line C,2012-03-14 06:10:20+00:00,Completed-Closed,Asmita,Org line C,1-613364032,Variant 223,223,Fluxicon Disco
+Accepted-In Progress,complete,Juan-Org line V7n,2008-11-13 08:43:32+00:00,Accepted-In Progress,Juan,Org line V7n,1-270399977,Variant 80,80,Fluxicon Disco
+Accepted-In Progress,complete,Juan-Org line V7n,2012-01-30 09:56:24+00:00,Accepted-In Progress,Juan,Org line V7n,1-270399977,Variant 80,80,Fluxicon Disco
+Accepted-In Progress,complete,Juan-Org line V7n,2012-01-30 10:12:05+00:00,Accepted-In Progress,Juan,Org line V7n,1-270399977,Variant 80,80,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Earl-Org line V7n,2012-02-16 13:52:16+00:00,Queued-Awaiting Assignment,Earl,Org line V7n,1-270399977,Variant 80,80,Fluxicon Disco
+Accepted-In Progress,complete,Juan-Org line V7n,2012-02-16 14:09:17+00:00,Accepted-In Progress,Juan,Org line V7n,1-270399977,Variant 80,80,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Earl-Org line V7n,2012-02-16 14:09:43+00:00,Queued-Awaiting Assignment,Earl,Org line V7n,1-270399977,Variant 80,80,Fluxicon Disco
+Accepted-In Progress,complete,Juan-Org line V7n,2012-02-16 14:10:10+00:00,Accepted-In Progress,Juan,Org line V7n,1-270399977,Variant 80,80,Fluxicon Disco
+Completed-Closed,complete,Juan-Org line V7n,2012-03-19 08:26:32+00:00,Completed-Closed,Juan,Org line V7n,1-270399977,Variant 80,80,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-05-12 07:01:33+00:00,Accepted-In Progress,Carolyn,Org line G3,1-372978779,Variant 110,110,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-05-12 07:03:39+00:00,Accepted-In Progress,Carolyn,Org line G3,1-372978779,Variant 110,110,Fluxicon Disco
+Accepted-In Progress,complete,Y-Org line A2,2010-05-12 07:03:44+00:00,Accepted-In Progress,Y,Org line A2,1-372978779,Variant 110,110,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-05-12 07:05:09+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-372978779,Variant 110,110,Fluxicon Disco
+Accepted-In Progress,complete,Naga-Org line G3,2010-05-12 19:04:00+00:00,Accepted-In Progress,Naga,Org line G3,1-372978779,Variant 110,110,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-05-12 19:04:07+00:00,Accepted-Assigned,Carolyn,Org line G3,1-372978779,Variant 110,110,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-30 12:58:10+00:00,Accepted-In Progress,Ewa,Org line G3,1-372978779,Variant 110,110,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-30 13:38:43+00:00,Completed-Closed,Ewa,Org line G3,1-372978779,Variant 110,110,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line G4,2011-10-13 14:29:24+00:00,Accepted-In Progress,Peter,Org line G4,1-586382068,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Peter-Org line G4,2012-01-03 15:01:22+00:00,Completed-Closed,Peter,Org line G4,1-586382068,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Jörgen-Org line C,2012-03-28 15:06:47+00:00,Accepted-In Progress,Jörgen,Org line C,1-704229584,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Jörgen-Org line C,2012-05-09 06:56:41+00:00,Completed-Closed,Jörgen,Org line C,1-704229584,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-05-13 15:54:39+00:00,Accepted-In Progress,Ewa,Org line G3,1-744436853,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-05-13 16:01:55+00:00,Completed-Closed,Ewa,Org line G3,1-744436853,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-06-01 10:19:11+00:00,Accepted-In Progress,Carolyn,Org line G3,1-377083756,Variant 113,113,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-06-01 10:34:03+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-377083756,Variant 113,113,Fluxicon Disco
+Accepted-In Progress,complete,Kannan-Org line G3,2010-06-01 15:19:00+00:00,Accepted-In Progress,Kannan,Org line G3,1-377083756,Variant 113,113,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-06-01 15:19:04+00:00,Accepted-Assigned,Carolyn,Org line G3,1-377083756,Variant 113,113,Fluxicon Disco
+Accepted-In Progress,complete,Kannan-Org line A2,2010-06-11 17:35:32+00:00,Accepted-In Progress,Kannan,Org line A2,1-377083756,Variant 113,113,Fluxicon Disco
+Accepted-Wait,complete,Kannan-Org line A2,2010-06-11 17:38:36+00:00,Accepted-Wait,Kannan,Org line A2,1-377083756,Variant 113,113,Fluxicon Disco
+Accepted-In Progress,complete,Pontus-Org line A2,2010-06-14 15:29:35+00:00,Accepted-In Progress,Pontus,Org line A2,1-377083756,Variant 113,113,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-06-15 15:40:03+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-377083756,Variant 113,113,Fluxicon Disco
+Accepted-In Progress,complete,Kannan-Org line A2,2010-06-15 18:06:31+00:00,Accepted-In Progress,Kannan,Org line A2,1-377083756,Variant 113,113,Fluxicon Disco
+Accepted-In Progress,complete,Kannan-Org line G3,2010-06-15 18:08:29+00:00,Accepted-In Progress,Kannan,Org line G3,1-377083756,Variant 113,113,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-06-15 18:08:34+00:00,Accepted-Assigned,Carolyn,Org line G3,1-377083756,Variant 113,113,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-02 21:50:43+00:00,Accepted-In Progress,Ewa,Org line G3,1-377083756,Variant 113,113,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-02-02 21:51:53+00:00,Completed-Closed,Ewa,Org line G3,1-377083756,Variant 113,113,Fluxicon Disco
+Accepted-In Progress,complete,Dieter-Org line C,2012-04-10 12:32:50+00:00,Accepted-In Progress,Dieter,Org line C,1-715674227,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Dieter-Org line C,2012-05-11 09:03:56+00:00,Completed-Closed,Dieter,Org line C,1-715674227,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Patrik-Org line C,2012-04-02 21:34:44+00:00,Accepted-In Progress,Patrik,Org line C,1-707293328,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Patrik-Org line C,2012-05-02 13:23:07+00:00,Completed-Closed,Patrik,Org line C,1-707293328,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Leif-Org line C,2012-02-09 15:36:08+00:00,Accepted-In Progress,Leif,Org line C,1-663851111,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Leif-Org line C,2012-03-01 09:40:26+00:00,Completed-Closed,Leif,Org line C,1-663851111,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-10-03 14:28:01+00:00,Accepted-In Progress,Carolyn,Org line G3,1-580358285,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-10-03 14:42:25+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-580358285,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,SV-Org line G3,2011-10-03 15:28:02+00:00,Accepted-In Progress,SV,Org line G3,1-580358285,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-10-03 15:29:59+00:00,Accepted-Assigned,Carolyn,Org line G3,1-580358285,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-03 08:41:20+00:00,Accepted-In Progress,Ewa,Org line G3,1-580358285,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-03 08:42:28+00:00,Completed-Closed,Ewa,Org line G3,1-580358285,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Fredrik-Org line A2,2011-07-22 09:23:23+00:00,Accepted-In Progress,Fredrik,Org line A2,1-542940765,Variant 176,176,Fluxicon Disco
+Accepted-In Progress,complete,Fredrik-Org line A2,2011-10-05 20:40:23+00:00,Accepted-In Progress,Fredrik,Org line A2,1-542940765,Variant 176,176,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Fredrik-Org line A2,2011-10-05 20:40:40+00:00,Queued-Awaiting Assignment,Fredrik,Org line A2,1-542940765,Variant 176,176,Fluxicon Disco
+Accepted-Assigned,complete,Daniel Alf-Org line A2,2011-10-05 20:46:38+00:00,Accepted-Assigned,Daniel Alf,Org line A2,1-542940765,Variant 176,176,Fluxicon Disco
+Accepted-Assigned,complete,Gustaf-Org line A2,2011-10-12 15:45:03+00:00,Accepted-Assigned,Gustaf,Org line A2,1-542940765,Variant 176,176,Fluxicon Disco
+Accepted-In Progress,complete,Fredrik-Org line A2,2012-02-21 13:43:18+00:00,Accepted-In Progress,Fredrik,Org line A2,1-542940765,Variant 176,176,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Fredrik-Org line A2,2012-02-21 13:44:28+00:00,Queued-Awaiting Assignment,Fredrik,Org line A2,1-542940765,Variant 176,176,Fluxicon Disco
+Accepted-Assigned,complete,Gustaf-Org line A2,2012-02-21 13:47:32+00:00,Accepted-Assigned,Gustaf,Org line A2,1-542940765,Variant 176,176,Fluxicon Disco
+Accepted-In Progress,complete,Fredrik-Org line A2,2012-02-22 15:01:36+00:00,Accepted-In Progress,Fredrik,Org line A2,1-542940765,Variant 176,176,Fluxicon Disco
+Completed-Closed,complete,Fredrik-Org line A2,2012-02-22 15:08:59+00:00,Completed-Closed,Fredrik,Org line A2,1-542940765,Variant 176,176,Fluxicon Disco
+Accepted-In Progress,complete,Yue-Org line A2,2011-11-28 09:16:12+00:00,Accepted-In Progress,Yue,Org line A2,1-617389027,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Yue-Org line A2,2011-11-30 01:11:40+00:00,Accepted-Wait,Yue,Org line A2,1-617389027,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Yue-Org line A2,2012-01-05 01:06:21+00:00,Completed-Closed,Yue,Org line A2,1-617389027,Variant 3,3,Fluxicon Disco
+Accepted-In Progress,complete,Rodrigo-Org line B,2011-08-09 16:06:57+00:00,Accepted-In Progress,Rodrigo,Org line B,1-546838031,Variant 181,181,Fluxicon Disco
+Accepted-In Progress,complete,Rodrigo-Org line B,2011-08-09 16:22:29+00:00,Accepted-In Progress,Rodrigo,Org line B,1-546838031,Variant 181,181,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Tomas-Org line C,2011-08-09 18:46:45+00:00,Queued-Awaiting Assignment,Tomas,Org line C,1-546838031,Variant 181,181,Fluxicon Disco
+Accepted-In Progress,complete,Rodrigo-Org line B,2011-08-11 17:23:43+00:00,Accepted-In Progress,Rodrigo,Org line B,1-546838031,Variant 181,181,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Tomas-Org line C,2011-08-11 17:51:34+00:00,Queued-Awaiting Assignment,Tomas,Org line C,1-546838031,Variant 181,181,Fluxicon Disco
+Accepted-In Progress,complete,Tomas-Org line C,2011-10-20 12:52:40+00:00,Accepted-In Progress,Tomas,Org line C,1-546838031,Variant 181,181,Fluxicon Disco
+Accepted-Wait,complete,Tomas-Org line C,2011-10-20 12:54:16+00:00,Accepted-Wait,Tomas,Org line C,1-546838031,Variant 181,181,Fluxicon Disco
+Completed-Closed,complete,Tomas-Org line C,2012-04-24 11:58:43+00:00,Completed-Closed,Tomas,Org line C,1-546838031,Variant 181,181,Fluxicon Disco
+Accepted-In Progress,complete,Agneta-Org line A2,2011-10-18 14:07:28+00:00,Accepted-In Progress,Agneta,Org line A2,1-589370341,Variant 36,36,Fluxicon Disco
+Accepted-In Progress,complete,Agneta-Org line A2,2011-10-18 14:07:50+00:00,Accepted-In Progress,Agneta,Org line A2,1-589370341,Variant 36,36,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Agneta-Org line A2,2011-10-18 14:10:17+00:00,Queued-Awaiting Assignment,Agneta,Org line A2,1-589370341,Variant 36,36,Fluxicon Disco
+Accepted-In Progress,complete,Agneta-Org line A2,2011-11-28 12:46:11+00:00,Accepted-In Progress,Agneta,Org line A2,1-589370341,Variant 36,36,Fluxicon Disco
+Accepted-Assigned,complete,Lars-Org line A2,2011-12-12 09:22:13+00:00,Accepted-Assigned,Lars,Org line A2,1-589370341,Variant 36,36,Fluxicon Disco
+Accepted-In Progress,complete,Stefan-Org line A2,2012-02-06 14:32:02+00:00,Accepted-In Progress,Stefan,Org line A2,1-589370341,Variant 36,36,Fluxicon Disco
+Completed-Closed,complete,Stefan-Org line A2,2012-02-06 14:34:54+00:00,Completed-Closed,Stefan,Org line A2,1-589370341,Variant 36,36,Fluxicon Disco
+Accepted-In Progress,complete,Ian-Org line A2,2011-10-11 14:57:41+00:00,Accepted-In Progress,Ian,Org line A2,1-584812041,Variant 17,17,Fluxicon Disco
+Accepted-Assigned,complete,Ian-Org line A2,2011-10-11 15:01:05+00:00,Accepted-Assigned,Ian,Org line A2,1-584812041,Variant 17,17,Fluxicon Disco
+Accepted-In Progress,complete,Andrew-Org line A2,2011-10-26 11:01:02+00:00,Accepted-In Progress,Andrew,Org line A2,1-584812041,Variant 17,17,Fluxicon Disco
+Accepted-Wait,complete,Andrew-Org line A2,2011-10-26 11:14:48+00:00,Accepted-Wait,Andrew,Org line A2,1-584812041,Variant 17,17,Fluxicon Disco
+Completed-Closed,complete,Andrew-Org line A2,2012-02-15 10:21:22+00:00,Completed-Closed,Andrew,Org line A2,1-584812041,Variant 17,17,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-05-14 13:12:01+00:00,Accepted-In Progress,Ewa,Org line G3,1-744961184,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-05-14 13:14:26+00:00,Completed-Closed,Ewa,Org line G3,1-744961184,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Fredrik-Org line C,2011-01-10 18:01:33+00:00,Accepted-In Progress,Fredrik,Org line C,1-437141508,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Fredrik-Org line C,2012-05-22 16:06:56+00:00,Completed-Closed,Fredrik,Org line C,1-437141508,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Nagaraj-Org line C,2011-02-03 07:46:37+00:00,Accepted-In Progress,Nagaraj,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-Assigned,complete,Nagaraj-Org line C,2011-08-31 08:19:47+00:00,Accepted-Assigned,Nagaraj,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-Wait,complete,Nagaraj-Org line C,2011-09-05 05:42:45+00:00,Accepted-Wait,Nagaraj,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Completed-Closed,complete,Nagaraj-Org line C,2011-09-15 07:03:05+00:00,Completed-Closed,Nagaraj,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-In Progress,complete,Kelly-Org line C,2011-11-23 02:06:00+00:00,Accepted-In Progress,Kelly,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Denis-Org line C,2011-11-23 02:07:23+00:00,Queued-Awaiting Assignment,Denis,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-In Progress,complete,Nagaraj-Org line C,2011-11-23 04:34:05+00:00,Accepted-In Progress,Nagaraj,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-Wait,complete,Nagaraj-Org line C,2011-11-23 04:34:17+00:00,Accepted-Wait,Nagaraj,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Rafal-Org line C,2011-11-23 06:01:26+00:00,Queued-Awaiting Assignment,Rafal,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Pranesh-Org line C,2011-12-01 07:21:50+00:00,Queued-Awaiting Assignment,Pranesh,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-In Progress,complete,Nagaraj-Org line C,2012-02-01 11:46:08+00:00,Accepted-In Progress,Nagaraj,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Denis-Org line C,2012-02-01 11:46:34+00:00,Queued-Awaiting Assignment,Denis,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-In Progress,complete,Nagaraj-Org line C,2012-02-01 11:46:35+00:00,Accepted-In Progress,Nagaraj,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Denis-Org line C,2012-02-01 11:46:52+00:00,Queued-Awaiting Assignment,Denis,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-In Progress,complete,P-Org line C,2012-02-20 05:22:51+00:00,Accepted-In Progress,P,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-Wait,complete,P-Org line C,2012-02-20 06:15:14+00:00,Accepted-Wait,P,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Rafal-Org line C,2012-02-21 09:23:12+00:00,Queued-Awaiting Assignment,Rafal,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-In Progress,complete,Rafal-Org line C,2012-02-21 11:46:17+00:00,Accepted-In Progress,Rafal,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Denis-Org line C,2012-02-21 11:48:45+00:00,Queued-Awaiting Assignment,Denis,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-In Progress,complete,P-Org line C,2012-02-21 12:05:44+00:00,Accepted-In Progress,P,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Completed-Closed,complete,P-Org line C,2012-02-21 12:11:24+00:00,Completed-Closed,P,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-In Progress,complete,Anna-Org line C,2012-02-22 08:35:04+00:00,Accepted-In Progress,Anna,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Denis-Org line C,2012-02-22 08:38:05+00:00,Queued-Awaiting Assignment,Denis,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-In Progress,complete,P-Org line B,2012-02-22 11:32:16+00:00,Accepted-In Progress,P,Org line B,1-475885658,Variant 148,148,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Denis-Org line C,2012-02-22 11:33:12+00:00,Queued-Awaiting Assignment,Denis,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-In Progress,complete,P-Org line C,2012-02-22 11:33:56+00:00,Accepted-In Progress,P,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-Assigned,complete,David-Org line C,2012-02-22 11:34:25+00:00,Accepted-Assigned,David,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-Wait,complete,David-Org line C,2012-02-27 14:51:51+00:00,Accepted-Wait,David,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Completed-Closed,complete,David-Org line C,2012-04-12 02:16:30+00:00,Completed-Closed,David,Org line C,1-475885658,Variant 148,148,Fluxicon Disco
+Accepted-In Progress,complete,Lars-Org line C,2012-05-10 14:53:26+00:00,Accepted-In Progress,Lars,Org line C,1-743659911,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Lars-Org line C,2012-05-31 14:19:08+00:00,Completed-Closed,Lars,Org line C,1-743659911,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,James-Org line V11,2011-03-25 11:59:02+00:00,Accepted-In Progress,James,Org line V11,1-510423612,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,James-Org line V11,2012-04-24 13:35:07+00:00,Accepted-In Progress,James,Org line V11,1-510423612,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,James-Org line V11,2012-04-24 13:35:09+00:00,Completed-Closed,James,Org line V11,1-510423612,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-12-24 06:04:53+00:00,Accepted-In Progress,Carolyn,Org line G3,1-433309965,Variant 142,142,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-12-24 06:09:51+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-433309965,Variant 142,142,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-12-24 06:09:52+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-433309965,Variant 142,142,Fluxicon Disco
+Accepted-In Progress,complete,Padmanabha-Org line G3,2010-12-24 09:15:14+00:00,Accepted-In Progress,Padmanabha,Org line G3,1-433309965,Variant 142,142,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-12-24 09:15:22+00:00,Accepted-Assigned,Carolyn,Org line G3,1-433309965,Variant 142,142,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Hannes-Org line A2,2011-04-07 10:38:51+00:00,Queued-Awaiting Assignment,Hannes,Org line A2,1-433309965,Variant 142,142,Fluxicon Disco
+Accepted-Assigned,complete,Y-Org line A2,2011-04-07 10:39:17+00:00,Accepted-Assigned,Y,Org line A2,1-433309965,Variant 142,142,Fluxicon Disco
+Accepted-In Progress,complete,Y-Org line A2,2011-04-07 11:07:06+00:00,Accepted-In Progress,Y,Org line A2,1-433309965,Variant 142,142,Fluxicon Disco
+Accepted-Wait,complete,Y-Org line A2,2011-04-07 11:08:47+00:00,Accepted-Wait,Y,Org line A2,1-433309965,Variant 142,142,Fluxicon Disco
+Accepted-In Progress,complete,Y-Org line A2,2011-04-07 15:03:00+00:00,Accepted-In Progress,Y,Org line A2,1-433309965,Variant 142,142,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-04-07 15:06:20+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-433309965,Variant 142,142,Fluxicon Disco
+Accepted-In Progress,complete,Santhosh-Org line G3,2011-04-08 13:26:24+00:00,Accepted-In Progress,Santhosh,Org line G3,1-433309965,Variant 142,142,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-04-08 13:28:35+00:00,Accepted-Assigned,Carolyn,Org line G3,1-433309965,Variant 142,142,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-02 21:15:47+00:00,Accepted-In Progress,Ewa,Org line G3,1-433309965,Variant 142,142,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-02-02 21:19:29+00:00,Completed-Closed,Ewa,Org line G3,1-433309965,Variant 142,142,Fluxicon Disco
+Accepted-In Progress,complete,Pratap-Org line C,2011-10-28 12:17:58+00:00,Accepted-In Progress,Pratap,Org line C,1-597231167,Variant 213,213,Fluxicon Disco
+Accepted-In Progress,complete,Pratap-Org line C,2011-10-28 12:27:42+00:00,Accepted-In Progress,Pratap,Org line C,1-597231167,Variant 213,213,Fluxicon Disco
+Accepted-In Progress,complete,Pratap-Org line C,2011-12-21 11:33:25+00:00,Accepted-In Progress,Pratap,Org line C,1-597231167,Variant 213,213,Fluxicon Disco
+Accepted-Wait,complete,Pratap-Org line C,2011-12-21 11:33:48+00:00,Accepted-Wait,Pratap,Org line C,1-597231167,Variant 213,213,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Robert-Org line C,2011-12-30 16:11:45+00:00,Queued-Awaiting Assignment,Robert,Org line C,1-597231167,Variant 213,213,Fluxicon Disco
+Accepted-In Progress,complete,Ramith-Org line C,2012-02-20 03:27:14+00:00,Accepted-In Progress,Ramith,Org line C,1-597231167,Variant 213,213,Fluxicon Disco
+Completed-Closed,complete,Ramith-Org line C,2012-03-09 12:07:07+00:00,Completed-Closed,Ramith,Org line C,1-597231167,Variant 213,213,Fluxicon Disco
+Accepted-In Progress,complete,Rajashekar-Org line A2,2009-09-23 09:52:27+00:00,Accepted-In Progress,Rajashekar,Org line A2,1-323462732,Variant 83,83,Fluxicon Disco
+Accepted-Assigned,complete,Rajashekar-Org line A2,2010-01-04 08:00:17+00:00,Accepted-Assigned,Rajashekar,Org line A2,1-323462732,Variant 83,83,Fluxicon Disco
+Accepted-In Progress,complete,Rajashekar-Org line A2,2010-03-17 15:36:20+00:00,Accepted-In Progress,Rajashekar,Org line A2,1-323462732,Variant 83,83,Fluxicon Disco
+Accepted-Assigned,complete,Rajashekar-Org line A2,2010-11-09 11:35:55+00:00,Accepted-Assigned,Rajashekar,Org line A2,1-323462732,Variant 83,83,Fluxicon Disco
+Accepted-In Progress,complete,Rajashekar-Org line A2,2010-11-09 13:20:48+00:00,Accepted-In Progress,Rajashekar,Org line A2,1-323462732,Variant 83,83,Fluxicon Disco
+Accepted-In Progress,complete,Kalpesh-Org line A2,2012-03-30 06:00:47+00:00,Accepted-In Progress,Kalpesh,Org line A2,1-323462732,Variant 83,83,Fluxicon Disco
+Accepted-Assigned,complete,Tise-Org line A2,2012-03-30 06:05:44+00:00,Accepted-Assigned,Tise,Org line A2,1-323462732,Variant 83,83,Fluxicon Disco
+Accepted-In Progress,complete,TulasiPrasad-Org line A2,2012-04-19 08:01:14+00:00,Accepted-In Progress,TulasiPrasad,Org line A2,1-323462732,Variant 83,83,Fluxicon Disco
+Completed-Closed,complete,TulasiPrasad-Org line A2,2012-04-19 08:01:38+00:00,Completed-Closed,TulasiPrasad,Org line A2,1-323462732,Variant 83,83,Fluxicon Disco
+Accepted-In Progress,complete,Mariusz-Org line C,2012-04-10 13:00:58+00:00,Accepted-In Progress,Mariusz,Org line C,1-715703591,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Mariusz-Org line C,2012-04-13 08:28:58+00:00,Completed-Closed,Mariusz,Org line C,1-715703591,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Ann-Charlotte-Org line C,2011-10-31 22:40:16+00:00,Accepted-In Progress,Ann-Charlotte,Org line C,1-599157751,Variant 11,11,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Ann-Charlotte-Org line C,2011-10-31 22:48:47+00:00,Queued-Awaiting Assignment,Ann-Charlotte,Org line C,1-599157751,Variant 11,11,Fluxicon Disco
+Accepted-In Progress,complete,Marcus-Org line C,2011-11-18 06:31:45+00:00,Accepted-In Progress,Marcus,Org line C,1-599157751,Variant 11,11,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Martin-Org line C,2011-11-18 06:34:16+00:00,Queued-Awaiting Assignment,Martin,Org line C,1-599157751,Variant 11,11,Fluxicon Disco
+Accepted-In Progress,complete,Lennart-Org line C,2011-11-18 09:43:24+00:00,Accepted-In Progress,Lennart,Org line C,1-599157751,Variant 11,11,Fluxicon Disco
+Completed-Closed,complete,Lennart-Org line C,2012-04-11 08:03:56+00:00,Completed-Closed,Lennart,Org line C,1-599157751,Variant 11,11,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Jonathan-Org line C,2012-02-22 14:27:44+00:00,Queued-Awaiting Assignment,Jonathan,Org line C,1-686642543,Variant 281,281,Fluxicon Disco
+Accepted-In Progress,complete,Andrés-Org line C,2012-02-22 14:29:28+00:00,Accepted-In Progress,Andrés,Org line C,1-686642543,Variant 281,281,Fluxicon Disco
+Accepted-In Progress,complete,Andrés-Org line C,2012-02-22 14:29:39+00:00,Accepted-In Progress,Andrés,Org line C,1-686642543,Variant 281,281,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Jonathan-Org line C,2012-02-22 14:29:47+00:00,Queued-Awaiting Assignment,Jonathan,Org line C,1-686642543,Variant 281,281,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Joakim-Org line G4,2012-02-22 14:30:56+00:00,Queued-Awaiting Assignment,Joakim,Org line G4,1-686642543,Variant 281,281,Fluxicon Disco
+Accepted-In Progress,complete,Rickard-Org line G4,2012-02-22 16:08:14+00:00,Accepted-In Progress,Rickard,Org line G4,1-686642543,Variant 281,281,Fluxicon Disco
+Completed-Cancelled,complete,Severine-Org line A2,2012-02-22 16:11:15+00:00,Completed-Cancelled,Severine,Org line A2,1-686642543,Variant 281,281,Fluxicon Disco
+Accepted-In Progress,complete,Sandrine-Org line A2,2012-04-03 14:52:52+00:00,Accepted-In Progress,Sandrine,Org line A2,1-686642543,Variant 281,281,Fluxicon Disco
+Completed-Closed,complete,Sandrine-Org line A2,2012-04-11 08:11:06+00:00,Completed-Closed,Sandrine,Org line A2,1-686642543,Variant 281,281,Fluxicon Disco
+Accepted-In Progress,complete,Britt-Org line A2,2012-03-27 14:03:01+00:00,Accepted-In Progress,Britt,Org line A2,1-703383433,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Britt-Org line A2,2012-05-10 20:03:08+00:00,Accepted-In Progress,Britt,Org line A2,1-703383433,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Britt-Org line A2,2012-05-10 20:04:17+00:00,Completed-Closed,Britt,Org line A2,1-703383433,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Allan-Org line C,2012-04-06 05:39:22+00:00,Accepted-In Progress,Allan,Org line C,1-710065204,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Allan-Org line C,2012-04-06 05:42:16+00:00,Completed-Closed,Allan,Org line C,1-710065204,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Roland-Org line G4,2011-10-19 19:55:35+00:00,Accepted-In Progress,Roland,Org line G4,1-590579544,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Roland-Org line G4,2012-01-26 10:18:45+00:00,Completed-Closed,Roland,Org line G4,1-590579544,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Frederic-Org line A2,2011-12-12 14:33:32+00:00,Accepted-In Progress,Frederic,Org line A2,1-622295317,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Frederic-Org line A2,2012-03-02 10:22:18+00:00,Accepted-Wait,Frederic,Org line A2,1-622295317,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Frederic-Org line A2,2012-03-22 14:45:50+00:00,Completed-Closed,Frederic,Org line A2,1-622295317,Variant 3,3,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-09-14 12:43:55+00:00,Accepted-In Progress,Carolyn,Org line G3,1-574162627,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-09-14 12:52:25+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-574162627,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,SV-Org line G3,2011-09-14 12:56:17+00:00,Accepted-In Progress,SV,Org line G3,1-574162627,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-09-14 12:56:27+00:00,Accepted-Assigned,Carolyn,Org line G3,1-574162627,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-31 07:55:09+00:00,Accepted-In Progress,Ewa,Org line G3,1-574162627,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-31 07:56:57+00:00,Completed-Closed,Ewa,Org line G3,1-574162627,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Karel-Org line C,2012-03-06 10:13:34+00:00,Accepted-In Progress,Karel,Org line C,1-693741781,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Karel-Org line C,2012-03-26 08:08:19+00:00,Accepted-In Progress,Karel,Org line C,1-693741781,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Karel-Org line C,2012-03-26 08:09:33+00:00,Completed-Closed,Karel,Org line C,1-693741781,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Rafal-Org line A2,2011-12-01 09:20:57+00:00,Accepted-In Progress,Rafal,Org line A2,1-618620384,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Rafal-Org line A2,2012-02-23 12:41:54+00:00,Completed-Closed,Rafal,Org line A2,1-618620384,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-03-23 15:11:24+00:00,Accepted-In Progress,Carolyn,Org line G3,1-509912273,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-03-23 15:41:02+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-509912273,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Padmanabha-Org line G3,2011-03-23 21:30:06+00:00,Accepted-In Progress,Padmanabha,Org line G3,1-509912273,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-03-23 21:30:35+00:00,Accepted-Assigned,Carolyn,Org line G3,1-509912273,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-30 11:53:21+00:00,Accepted-In Progress,Ewa,Org line G3,1-509912273,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-30 11:53:23+00:00,Completed-Closed,Ewa,Org line G3,1-509912273,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Mahesh-Org line C,2012-03-02 07:49:22+00:00,Accepted-In Progress,Mahesh,Org line C,1-691786330,Variant 28,28,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Mahesh-Org line C,2012-03-02 07:49:43+00:00,Queued-Awaiting Assignment,Mahesh,Org line C,1-691786330,Variant 28,28,Fluxicon Disco
+Accepted-In Progress,complete,Radha-Org line C,2012-03-29 07:20:23+00:00,Accepted-In Progress,Radha,Org line C,1-691786330,Variant 28,28,Fluxicon Disco
+Accepted-Assigned,complete,Jonas-Org line C,2012-03-29 07:21:22+00:00,Accepted-Assigned,Jonas,Org line C,1-691786330,Variant 28,28,Fluxicon Disco
+Completed-Closed,complete,Jonas-Org line C,2012-03-30 09:02:03+00:00,Completed-Closed,Jonas,Org line C,1-691786330,Variant 28,28,Fluxicon Disco
+Accepted-In Progress,complete,Trevor-Org line C,2012-02-09 15:39:02+00:00,Accepted-In Progress,Trevor,Org line C,1-663891165,Variant 17,17,Fluxicon Disco
+Accepted-Assigned,complete,Trevor-Org line C,2012-02-10 12:50:20+00:00,Accepted-Assigned,Trevor,Org line C,1-663891165,Variant 17,17,Fluxicon Disco
+Accepted-In Progress,complete,Trevor-Org line C,2012-02-10 16:42:31+00:00,Accepted-In Progress,Trevor,Org line C,1-663891165,Variant 17,17,Fluxicon Disco
+Accepted-Wait,complete,Trevor-Org line C,2012-02-17 14:58:54+00:00,Accepted-Wait,Trevor,Org line C,1-663891165,Variant 17,17,Fluxicon Disco
+Completed-Closed,complete,Trevor-Org line C,2012-03-19 15:19:14+00:00,Completed-Closed,Trevor,Org line C,1-663891165,Variant 17,17,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line G4,2011-08-11 07:48:34+00:00,Accepted-In Progress,Peter,Org line G4,1-548188557,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Peter-Org line G4,2012-01-04 14:40:26+00:00,Completed-Closed,Peter,Org line G4,1-548188557,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-21 07:23:08+00:00,Accepted-In Progress,Ewa,Org line G3,1-685018675,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-02-21 07:27:07+00:00,Completed-Closed,Ewa,Org line G3,1-685018675,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Tomas-Org line A2,2010-09-16 14:39:32+00:00,Accepted-In Progress,Tomas,Org line A2,1-402328919,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Tomas-Org line A2,2012-05-29 08:32:02+00:00,Completed-Closed,Tomas,Org line A2,1-402328919,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Sandro-Org line A2,2010-12-14 13:35:45+00:00,Accepted-In Progress,Sandro,Org line A2,1-430150814,Variant 141,141,Fluxicon Disco
+Accepted-In Progress,complete,Sandro-Org line A2,2010-12-14 13:39:07+00:00,Accepted-In Progress,Sandro,Org line A2,1-430150814,Variant 141,141,Fluxicon Disco
+Accepted-Assigned,complete,Sandro-Org line A2,2011-12-07 13:15:22+00:00,Accepted-Assigned,Sandro,Org line A2,1-430150814,Variant 141,141,Fluxicon Disco
+Accepted-In Progress,complete,Juliano-Org line A2,2011-12-07 13:17:11+00:00,Accepted-In Progress,Juliano,Org line A2,1-430150814,Variant 141,141,Fluxicon Disco
+Accepted-Wait,complete,Juliano-Org line A2,2011-12-07 13:18:05+00:00,Accepted-Wait,Juliano,Org line A2,1-430150814,Variant 141,141,Fluxicon Disco
+Accepted-Assigned,complete,Fabricio-Org line A2,2012-02-29 12:06:02+00:00,Accepted-Assigned,Fabricio,Org line A2,1-430150814,Variant 141,141,Fluxicon Disco
+Accepted-Wait,complete,Fabricio-Org line A2,2012-03-30 12:23:27+00:00,Accepted-Wait,Fabricio,Org line A2,1-430150814,Variant 141,141,Fluxicon Disco
+Completed-Closed,complete,Fabricio-Org line A2,2012-04-20 15:01:22+00:00,Completed-Closed,Fabricio,Org line A2,1-430150814,Variant 141,141,Fluxicon Disco
+Accepted-In Progress,complete,Pamela-Org line V2,2012-01-24 13:46:39+00:00,Accepted-In Progress,Pamela,Org line V2,1-651206715,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Pamela-Org line V2,2012-02-07 09:46:48+00:00,Completed-Closed,Pamela,Org line V2,1-651206715,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Henrik-Org line A2,2009-10-27 08:42:40+00:00,Accepted-In Progress,Henrik,Org line A2,1-329647261,Variant 85,85,Fluxicon Disco
+Accepted-Wait,complete,Henrik-Org line A2,2009-10-27 08:42:49+00:00,Accepted-Wait,Henrik,Org line A2,1-329647261,Variant 85,85,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Henrik-Org line A2,2010-03-02 12:43:43+00:00,Queued-Awaiting Assignment,Henrik,Org line A2,1-329647261,Variant 85,85,Fluxicon Disco
+Accepted-In Progress,complete,Ricardo-Org line A1,2010-03-02 12:44:26+00:00,Accepted-In Progress,Ricardo,Org line A1,1-329647261,Variant 85,85,Fluxicon Disco
+Accepted-In Progress,complete,Katarzyna-Org line A2,2010-03-03 07:04:11+00:00,Accepted-In Progress,Katarzyna,Org line A2,1-329647261,Variant 85,85,Fluxicon Disco
+Accepted-Wait,complete,Katarzyna-Org line A2,2010-06-13 20:32:03+00:00,Accepted-Wait,Katarzyna,Org line A2,1-329647261,Variant 85,85,Fluxicon Disco
+Accepted-Assigned,complete,Damian-Org line A2,2011-04-11 07:12:04+00:00,Accepted-Assigned,Damian,Org line A2,1-329647261,Variant 85,85,Fluxicon Disco
+Accepted-Wait,complete,Damian-Org line A2,2011-11-23 10:55:39+00:00,Accepted-Wait,Damian,Org line A2,1-329647261,Variant 85,85,Fluxicon Disco
+Completed-Closed,complete,Damian-Org line A2,2012-01-19 07:55:41+00:00,Completed-Closed,Damian,Org line A2,1-329647261,Variant 85,85,Fluxicon Disco
+Accepted-In Progress,complete,Helene-Org line G4,2010-09-09 14:58:05+00:00,Accepted-In Progress,Helene,Org line G4,1-400528782,Variant 43,43,Fluxicon Disco
+Completed-Closed,complete,Helene-Org line G4,2011-11-09 13:09:30+00:00,Completed-Closed,Helene,Org line G4,1-400528782,Variant 43,43,Fluxicon Disco
+Accepted-In Progress,complete,Helene-Org line G4,2011-11-09 13:49:03+00:00,Accepted-In Progress,Helene,Org line G4,1-400528782,Variant 43,43,Fluxicon Disco
+Accepted-In Progress,complete,Gustav-Org line G4,2012-02-21 14:22:07+00:00,Accepted-In Progress,Gustav,Org line G4,1-400528782,Variant 43,43,Fluxicon Disco
+Completed-Closed,complete,Gustav-Org line G4,2012-02-21 14:22:08+00:00,Completed-Closed,Gustav,Org line G4,1-400528782,Variant 43,43,Fluxicon Disco
+Accepted-In Progress,complete,Vaibhav-Org line C,2012-03-05 05:23:01+00:00,Accepted-In Progress,Vaibhav,Org line C,1-692715494,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Vaibhav-Org line C,2012-05-28 09:57:12+00:00,Completed-Closed,Vaibhav,Org line C,1-692715494,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Petrus-Org line C,2012-01-24 11:35:30+00:00,Accepted-In Progress,Petrus,Org line C,1-651084211,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Petrus-Org line C,2012-01-24 11:38:09+00:00,Completed-Closed,Petrus,Org line C,1-651084211,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-10-28 09:06:29+00:00,Accepted-In Progress,Carolyn,Org line G3,1-597285812,Variant 19,19,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-10-28 10:25:46+00:00,Accepted-In Progress,Carolyn,Org line G3,1-597285812,Variant 19,19,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2011-11-22 12:36:13+00:00,Accepted-In Progress,Ewa,Org line G3,1-597285812,Variant 19,19,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-03 12:11:12+00:00,Completed-Closed,Ewa,Org line G3,1-597285812,Variant 19,19,Fluxicon Disco
+Accepted-In Progress,complete,Lena-Org line A2,2011-03-17 10:59:36+00:00,Accepted-In Progress,Lena,Org line A2,1-508462323,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Lena-Org line A2,2012-03-20 15:19:29+00:00,Completed-Closed,Lena,Org line A2,1-508462323,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Anson-Org line A2,2012-04-19 03:54:27+00:00,Accepted-In Progress,Anson,Org line A2,1-722688743,Variant 5,5,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Anson-Org line A2,2012-04-19 05:58:07+00:00,Queued-Awaiting Assignment,Anson,Org line A2,1-722688743,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Anson-Org line A2,2012-05-24 03:31:28+00:00,Accepted-In Progress,Anson,Org line A2,1-722688743,Variant 5,5,Fluxicon Disco
+Completed-Closed,complete,Anson-Org line A2,2012-05-24 03:31:54+00:00,Completed-Closed,Anson,Org line A2,1-722688743,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Jian-Org line C,2012-03-09 12:06:22+00:00,Accepted-In Progress,Jian,Org line C,1-695316021,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Jian-Org line C,2012-03-09 12:36:55+00:00,Accepted-Wait,Jian,Org line C,1-695316021,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Jian-Org line C,2012-04-04 14:16:26+00:00,Completed-Closed,Jian,Org line C,1-695316021,Variant 3,3,Fluxicon Disco
+Accepted-In Progress,complete,Jakob-Org line C,2011-09-12 12:26:27+00:00,Accepted-In Progress,Jakob,Org line C,1-573215995,Variant 13,13,Fluxicon Disco
+Accepted-Assigned,complete,Jakob-Org line C,2011-09-12 12:27:01+00:00,Accepted-Assigned,Jakob,Org line C,1-573215995,Variant 13,13,Fluxicon Disco
+Accepted-In Progress,complete,Jakob-Org line C,2011-11-25 13:40:42+00:00,Accepted-In Progress,Jakob,Org line C,1-573215995,Variant 13,13,Fluxicon Disco
+Accepted-In Progress,complete,Jakob-Org line C,2012-01-31 12:08:17+00:00,Accepted-In Progress,Jakob,Org line C,1-573215995,Variant 13,13,Fluxicon Disco
+Completed-Closed,complete,Jakob-Org line C,2012-01-31 12:09:55+00:00,Completed-Closed,Jakob,Org line C,1-573215995,Variant 13,13,Fluxicon Disco
+Accepted-In Progress,complete,Praveen-Org line C,2011-11-06 08:00:41+00:00,Accepted-In Progress,Praveen,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Praveen-Org line C,2011-11-06 08:10:10+00:00,Queued-Awaiting Assignment,Praveen,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Accepted-In Progress,complete,Sameer-Org line C,2011-11-07 07:35:18+00:00,Accepted-In Progress,Sameer,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Martin-Org line C,2011-11-07 07:38:14+00:00,Queued-Awaiting Assignment,Martin,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Accepted-In Progress,complete,Michael-Org line C,2011-11-07 08:10:45+00:00,Accepted-In Progress,Michael,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Accepted-Wait,complete,Michael-Org line C,2011-11-07 09:03:58+00:00,Accepted-Wait,Michael,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Accepted-In Progress,complete,Michael-Org line C,2011-11-07 10:45:40+00:00,Accepted-In Progress,Michael,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Daniel-Org line C,2011-11-07 10:47:27+00:00,Queued-Awaiting Assignment,Daniel,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Accepted-In Progress,complete,Mikael-Org line C,2011-11-08 09:42:37+00:00,Accepted-In Progress,Mikael,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Accepted-Assigned,complete,Daniel-Org line C,2011-11-09 11:08:35+00:00,Accepted-Assigned,Daniel,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Accepted-In Progress,complete,Mikael-Org line C,2011-11-09 11:09:46+00:00,Accepted-In Progress,Mikael,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Completed-Closed,complete,Mikael-Org line C,2011-11-25 07:39:57+00:00,Completed-Closed,Mikael,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Accepted-In Progress,complete,M Humaira-Org line C,2011-12-07 12:25:46+00:00,Accepted-In Progress,M Humaira,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Praveen-Org line C,2011-12-07 12:27:34+00:00,Queued-Awaiting Assignment,Praveen,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Accepted-In Progress,complete,Arun-Org line C,2011-12-07 12:29:22+00:00,Accepted-In Progress,Arun,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Accepted-Assigned,complete,Partha-Org line C,2011-12-07 12:29:55+00:00,Accepted-Assigned,Partha,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Martin-Org line C,2011-12-07 12:50:32+00:00,Queued-Awaiting Assignment,Martin,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Accepted-In Progress,complete,Mikael-Org line C,2012-01-22 21:20:26+00:00,Accepted-In Progress,Mikael,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Completed-Closed,complete,Mikael-Org line C,2012-01-22 21:21:04+00:00,Completed-Closed,Mikael,Org line C,1-602870173,Variant 217,217,Fluxicon Disco
+Accepted-In Progress,complete,Ian-Org line A2,2011-07-25 11:47:13+00:00,Accepted-In Progress,Ian,Org line A2,1-543300099,Variant 13,13,Fluxicon Disco
+Accepted-Assigned,complete,Ian-Org line A2,2011-07-25 14:39:06+00:00,Accepted-Assigned,Ian,Org line A2,1-543300099,Variant 13,13,Fluxicon Disco
+Accepted-In Progress,complete,Ian-Org line A2,2011-09-09 11:17:02+00:00,Accepted-In Progress,Ian,Org line A2,1-543300099,Variant 13,13,Fluxicon Disco
+Accepted-In Progress,complete,Andrew-Org line A2,2012-05-04 15:00:49+00:00,Accepted-In Progress,Andrew,Org line A2,1-543300099,Variant 13,13,Fluxicon Disco
+Completed-Closed,complete,Andrew-Org line A2,2012-05-04 15:00:50+00:00,Completed-Closed,Andrew,Org line A2,1-543300099,Variant 13,13,Fluxicon Disco
+Accepted-In Progress,complete,Jonas-Org line C,2011-09-30 10:13:32+00:00,Accepted-In Progress,Jonas,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Jonas-Org line C,2011-09-30 10:14:16+00:00,Queued-Awaiting Assignment,Jonas,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Accepted-In Progress,complete,Sheetal-Org line C,2011-10-11 09:03:54+00:00,Accepted-In Progress,Sheetal,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Accepted-Wait,complete,Sheetal-Org line C,2011-10-11 09:04:02+00:00,Accepted-Wait,Sheetal,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Stefan-Org line C,2011-12-07 13:21:13+00:00,Queued-Awaiting Assignment,Stefan,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Accepted-Assigned,complete,Shaji-Org line C,2011-12-09 12:31:20+00:00,Accepted-Assigned,Shaji,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Pranesh-Org line C,2012-01-19 06:12:20+00:00,Queued-Awaiting Assignment,Pranesh,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Accepted-In Progress,complete,Sheetal-Org line C,2012-01-19 06:24:33+00:00,Accepted-In Progress,Sheetal,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Accepted-Wait,complete,Sheetal-Org line C,2012-01-19 06:25:08+00:00,Accepted-Wait,Sheetal,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Accepted-Assigned,complete,Febin-Org line C,2012-02-22 07:40:00+00:00,Accepted-Assigned,Febin,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Accepted-Wait,complete,Febin-Org line C,2012-02-22 07:51:19+00:00,Accepted-Wait,Febin,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Pranesh-Org line C,2012-03-02 12:26:58+00:00,Queued-Awaiting Assignment,Pranesh,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Accepted-In Progress,complete,Pradeesh-Org line C,2012-03-29 11:10:34+00:00,Accepted-In Progress,Pradeesh,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Accepted-Wait,complete,Pradeesh-Org line C,2012-03-29 11:10:53+00:00,Accepted-Wait,Pradeesh,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Completed-Closed,complete,Pradeesh-Org line C,2012-04-24 08:17:50+00:00,Completed-Closed,Pradeesh,Org line C,1-579425746,Variant 200,200,Fluxicon Disco
+Accepted-In Progress,complete,Anup-Org line C,2011-11-07 10:57:05+00:00,Accepted-In Progress,Anup,Org line C,1-603798757,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Anup-Org line C,2012-05-23 11:07:40+00:00,Completed-Closed,Anup,Org line C,1-603798757,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Ray-Org line A2,2012-02-15 11:05:04+00:00,Accepted-In Progress,Ray,Org line A2,1-675115616,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Ray-Org line A2,2012-05-29 07:38:52+00:00,Completed-Closed,Ray,Org line A2,1-675115616,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line G4,2012-03-01 23:17:13+00:00,Accepted-In Progress,Peter,Org line G4,1-691221687,Variant 288,288,Fluxicon Disco
+Accepted-In Progress,complete,Peter-Org line G4,2012-03-12 07:24:31+00:00,Accepted-In Progress,Peter,Org line G4,1-691221687,Variant 288,288,Fluxicon Disco
+Accepted-In Progress,complete,Göran-Org line G4,2012-03-28 12:42:53+00:00,Accepted-In Progress,Göran,Org line G4,1-691221687,Variant 288,288,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Ulf-Org line C,2012-03-28 12:49:40+00:00,Queued-Awaiting Assignment,Ulf,Org line C,1-691221687,Variant 288,288,Fluxicon Disco
+Accepted-In Progress,complete,Ulf-Org line C,2012-03-28 12:52:43+00:00,Accepted-In Progress,Ulf,Org line C,1-691221687,Variant 288,288,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Ulf-Org line C,2012-03-29 11:41:49+00:00,Queued-Awaiting Assignment,Ulf,Org line C,1-691221687,Variant 288,288,Fluxicon Disco
+Accepted-In Progress,complete,Ulf-Org line C,2012-03-29 11:49:40+00:00,Accepted-In Progress,Ulf,Org line C,1-691221687,Variant 288,288,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Ulf-Org line C,2012-03-29 11:50:02+00:00,Queued-Awaiting Assignment,Ulf,Org line C,1-691221687,Variant 288,288,Fluxicon Disco
+Accepted-In Progress,complete,Ulf-Org line C,2012-03-29 11:50:21+00:00,Accepted-In Progress,Ulf,Org line C,1-691221687,Variant 288,288,Fluxicon Disco
+Completed-Closed,complete,Ulf-Org line C,2012-04-11 11:03:04+00:00,Completed-Closed,Ulf,Org line C,1-691221687,Variant 288,288,Fluxicon Disco
+Accepted-In Progress,complete,Håkan-Org line G4,2012-01-10 09:27:07+00:00,Accepted-In Progress,Håkan,Org line G4,1-637713651,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Håkan-Org line G4,2012-01-13 11:32:34+00:00,Completed-Closed,Håkan,Org line G4,1-637713651,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Carrie-Org line A2,2010-10-14 15:44:01+00:00,Accepted-In Progress,Carrie,Org line A2,1-409309026,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Carrie-Org line A2,2012-03-13 07:14:51+00:00,Accepted-In Progress,Carrie,Org line A2,1-409309026,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Carrie-Org line A2,2012-03-13 07:16:12+00:00,Completed-Closed,Carrie,Org line A2,1-409309026,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Celine-Org line C,2010-04-29 07:23:20+00:00,Accepted-In Progress,Celine,Org line C,1-370436092,Variant 40,40,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Celine-Org line C,2010-04-29 07:23:56+00:00,Queued-Awaiting Assignment,Celine,Org line C,1-370436092,Variant 40,40,Fluxicon Disco
+Accepted-In Progress,complete,Celine-Org line C,2010-05-04 12:28:29+00:00,Accepted-In Progress,Celine,Org line C,1-370436092,Variant 40,40,Fluxicon Disco
+Accepted-In Progress,complete,Celine-Org line C,2010-11-09 17:47:12+00:00,Accepted-In Progress,Celine,Org line C,1-370436092,Variant 40,40,Fluxicon Disco
+Accepted-Assigned,complete,Marie Anne-Org line C,2012-04-24 16:21:03+00:00,Accepted-Assigned,Marie Anne,Org line C,1-370436092,Variant 40,40,Fluxicon Disco
+Accepted-In Progress,complete,Marie Anne-Org line C,2012-04-25 17:07:12+00:00,Accepted-In Progress,Marie Anne,Org line C,1-370436092,Variant 40,40,Fluxicon Disco
+Completed-Closed,complete,Marie Anne-Org line C,2012-04-25 17:07:27+00:00,Completed-Closed,Marie Anne,Org line C,1-370436092,Variant 40,40,Fluxicon Disco
+Accepted-In Progress,complete,Radoslaw-Org line A2,2011-09-15 13:59:18+00:00,Accepted-In Progress,Radoslaw,Org line A2,1-574623837,Variant 6,6,Fluxicon Disco
+Accepted-Assigned,complete,Radoslaw-Org line A2,2011-10-12 11:02:06+00:00,Accepted-Assigned,Radoslaw,Org line A2,1-574623837,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Radoslaw-Org line A2,2012-01-19 12:05:18+00:00,Accepted-In Progress,Radoslaw,Org line A2,1-574623837,Variant 6,6,Fluxicon Disco
+Completed-Closed,complete,Radoslaw-Org line A2,2012-01-19 12:08:49+00:00,Completed-Closed,Radoslaw,Org line A2,1-574623837,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Tapan-Org line C,2012-03-05 09:11:17+00:00,Accepted-In Progress,Tapan,Org line C,1-692813576,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Tapan-Org line C,2012-03-14 09:36:57+00:00,Accepted-Wait,Tapan,Org line C,1-692813576,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Tapan-Org line C,2012-05-08 06:28:25+00:00,Completed-Closed,Tapan,Org line C,1-692813576,Variant 3,3,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-02-18 05:03:37+00:00,Accepted-In Progress,Carolyn,Org line G3,1-499289128,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-02-18 05:09:51+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-499289128,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Padmanabha-Org line G3,2011-02-18 09:31:26+00:00,Accepted-In Progress,Padmanabha,Org line G3,1-499289128,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-02-18 09:31:49+00:00,Accepted-Assigned,Carolyn,Org line G3,1-499289128,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-06 20:51:52+00:00,Accepted-In Progress,Ewa,Org line G3,1-499289128,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-02-06 20:53:03+00:00,Completed-Closed,Ewa,Org line G3,1-499289128,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Srinivasan-Org line B,2012-01-03 13:40:35+00:00,Accepted-In Progress,Srinivasan,Org line B,1-633036453,Variant 5,5,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Srinivasan-Org line B,2012-01-03 13:53:17+00:00,Queued-Awaiting Assignment,Srinivasan,Org line B,1-633036453,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Rijin-Org line B,2012-01-03 13:54:20+00:00,Accepted-In Progress,Rijin,Org line B,1-633036453,Variant 5,5,Fluxicon Disco
+Completed-Closed,complete,Rijin-Org line B,2012-02-29 12:48:12+00:00,Completed-Closed,Rijin,Org line B,1-633036453,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Tomas-Org line C,2011-09-06 11:00:37+00:00,Accepted-In Progress,Tomas,Org line C,1-567958551,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Tomas-Org line C,2011-09-06 14:30:11+00:00,Accepted-In Progress,Tomas,Org line C,1-567958551,Variant 4,4,Fluxicon Disco
+Completed-Closed,complete,Tomas-Org line C,2012-02-13 20:52:38+00:00,Completed-Closed,Tomas,Org line C,1-567958551,Variant 4,4,Fluxicon Disco
+Accepted-In Progress,complete,Tord-Org line G4,2010-08-18 12:00:14+00:00,Accepted-In Progress,Tord,Org line G4,1-392590655,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Tord-Org line G4,2012-01-24 13:49:26+00:00,Completed-Closed,Tord,Org line G4,1-392590655,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-08-19 06:24:05+00:00,Accepted-In Progress,Carolyn,Org line G3,1-392812598,Variant 2,2,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-08-19 06:27:30+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-392812598,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Kannan-Org line G3,2010-08-20 15:02:07+00:00,Accepted-In Progress,Kannan,Org line G3,1-392812598,Variant 2,2,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-08-20 15:02:16+00:00,Accepted-Assigned,Carolyn,Org line G3,1-392812598,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-04 15:58:37+00:00,Accepted-In Progress,Ewa,Org line G3,1-392812598,Variant 2,2,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-04 15:59:08+00:00,Completed-Closed,Ewa,Org line G3,1-392812598,Variant 2,2,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2011-06-23 19:04:57+00:00,Accepted-In Progress,Carolyn,Org line G3,1-536299706,Variant 168,168,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-06-23 19:05:33+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-536299706,Variant 168,168,Fluxicon Disco
+Accepted-In Progress,complete,Padmanabha-Org line G3,2011-06-23 21:05:57+00:00,Accepted-In Progress,Padmanabha,Org line G3,1-536299706,Variant 168,168,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-06-23 21:06:02+00:00,Accepted-Assigned,Carolyn,Org line G3,1-536299706,Variant 168,168,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Hannes-Org line A2,2011-06-24 19:10:43+00:00,Queued-Awaiting Assignment,Hannes,Org line A2,1-536299706,Variant 168,168,Fluxicon Disco
+Accepted-Assigned,complete,Naomi-Org line A2,2011-06-24 19:11:55+00:00,Accepted-Assigned,Naomi,Org line A2,1-536299706,Variant 168,168,Fluxicon Disco
+Accepted-In Progress,complete,Sandro-Org line A2,2011-06-30 20:20:42+00:00,Accepted-In Progress,Sandro,Org line A2,1-536299706,Variant 168,168,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Sandro-Org line A2,2011-06-30 20:35:02+00:00,Queued-Awaiting Assignment,Sandro,Org line A2,1-536299706,Variant 168,168,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2011-06-30 20:35:03+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-536299706,Variant 168,168,Fluxicon Disco
+Accepted-In Progress,complete,Padmanabha-Org line G3,2011-06-30 23:54:29+00:00,Accepted-In Progress,Padmanabha,Org line G3,1-536299706,Variant 168,168,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2011-06-30 23:54:53+00:00,Accepted-Assigned,Carolyn,Org line G3,1-536299706,Variant 168,168,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-01-30 11:40:26+00:00,Accepted-In Progress,Ewa,Org line G3,1-536299706,Variant 168,168,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-01-30 11:40:27+00:00,Completed-Closed,Ewa,Org line G3,1-536299706,Variant 168,168,Fluxicon Disco
+Accepted-In Progress,complete,Ing-Marie-Org line G4,2010-10-08 15:16:15+00:00,Accepted-In Progress,Ing-Marie,Org line G4,1-407876996,Variant 5,5,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Ing-Marie-Org line G4,2010-10-08 15:19:28+00:00,Queued-Awaiting Assignment,Ing-Marie,Org line G4,1-407876996,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Suresh-Org line G4,2012-01-26 13:06:44+00:00,Accepted-In Progress,Suresh,Org line G4,1-407876996,Variant 5,5,Fluxicon Disco
+Completed-Closed,complete,Suresh-Org line G4,2012-01-26 13:06:48+00:00,Completed-Closed,Suresh,Org line G4,1-407876996,Variant 5,5,Fluxicon Disco
+Accepted-In Progress,complete,Dimitri-Org line A2,2012-02-10 09:12:35+00:00,Accepted-In Progress,Dimitri,Org line A2,1-664912261,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Dimitri-Org line A2,2012-03-12 09:15:30+00:00,Completed-Closed,Dimitri,Org line A2,1-664912261,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Carolyn-Org line G3,2010-06-16 07:45:30+00:00,Accepted-In Progress,Carolyn,Org line G3,1-380527184,Variant 117,117,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-06-16 07:49:44+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-380527184,Variant 117,117,Fluxicon Disco
+Accepted-In Progress,complete,Kannan-Org line G3,2010-06-16 13:23:30+00:00,Accepted-In Progress,Kannan,Org line G3,1-380527184,Variant 117,117,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-06-16 13:23:35+00:00,Accepted-Assigned,Carolyn,Org line G3,1-380527184,Variant 117,117,Fluxicon Disco
+Accepted-In Progress,complete,Kannan-Org line A2,2010-06-17 18:19:15+00:00,Accepted-In Progress,Kannan,Org line A2,1-380527184,Variant 117,117,Fluxicon Disco
+Accepted-Assigned,complete,Y-Org line A2,2010-06-17 18:19:20+00:00,Accepted-Assigned,Y,Org line A2,1-380527184,Variant 117,117,Fluxicon Disco
+Accepted-In Progress,complete,Y-Org line A2,2010-06-18 12:01:56+00:00,Accepted-In Progress,Y,Org line A2,1-380527184,Variant 117,117,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Carolyn-Org line G3,2010-06-21 09:35:08+00:00,Queued-Awaiting Assignment,Carolyn,Org line G3,1-380527184,Variant 117,117,Fluxicon Disco
+Accepted-In Progress,complete,Naga-Org line G3,2010-06-21 15:55:02+00:00,Accepted-In Progress,Naga,Org line G3,1-380527184,Variant 117,117,Fluxicon Disco
+Accepted-Assigned,complete,Carolyn-Org line G3,2010-06-21 16:00:14+00:00,Accepted-Assigned,Carolyn,Org line G3,1-380527184,Variant 117,117,Fluxicon Disco
+Accepted-In Progress,complete,Ewa-Org line G3,2012-02-04 09:20:08+00:00,Accepted-In Progress,Ewa,Org line G3,1-380527184,Variant 117,117,Fluxicon Disco
+Completed-Closed,complete,Ewa-Org line G3,2012-02-04 09:31:43+00:00,Completed-Closed,Ewa,Org line G3,1-380527184,Variant 117,117,Fluxicon Disco
+Accepted-In Progress,complete,Arun-Org line A2,2011-05-04 09:53:03+00:00,Accepted-In Progress,Arun,Org line A2,1-522949376,Variant 160,160,Fluxicon Disco
+Queued-Awaiting Assignment,complete,Arun-Org line A2,2011-05-18 13:42:40+00:00,Queued-Awaiting Assignment,Arun,Org line A2,1-522949376,Variant 160,160,Fluxicon Disco
+Accepted-In Progress,complete,Emma-Org line A2,2011-05-25 09:02:52+00:00,Accepted-In Progress,Emma,Org line A2,1-522949376,Variant 160,160,Fluxicon Disco
+Accepted-Wait,complete,Emma-Org line A2,2011-05-25 09:03:17+00:00,Accepted-Wait,Emma,Org line A2,1-522949376,Variant 160,160,Fluxicon Disco
+Accepted-Assigned,complete,Pernilla-Org line A2,2011-11-23 11:57:40+00:00,Accepted-Assigned,Pernilla,Org line A2,1-522949376,Variant 160,160,Fluxicon Disco
+Accepted-Wait,complete,Pernilla-Org line A2,2011-11-23 13:14:56+00:00,Accepted-Wait,Pernilla,Org line A2,1-522949376,Variant 160,160,Fluxicon Disco
+Completed-Closed,complete,Pernilla-Org line A2,2012-01-11 13:34:26+00:00,Completed-Closed,Pernilla,Org line A2,1-522949376,Variant 160,160,Fluxicon Disco
+Accepted-In Progress,complete,Samira-Org line G4,2012-02-17 08:57:37+00:00,Accepted-In Progress,Samira,Org line G4,1-681864502,Variant 6,6,Fluxicon Disco
+Accepted-Assigned,complete,Samira-Org line G4,2012-02-17 09:01:05+00:00,Accepted-Assigned,Samira,Org line G4,1-681864502,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Samira-Org line G4,2012-05-02 10:04:26+00:00,Accepted-In Progress,Samira,Org line G4,1-681864502,Variant 6,6,Fluxicon Disco
+Completed-Closed,complete,Samira-Org line G4,2012-05-29 07:45:23+00:00,Completed-Closed,Samira,Org line G4,1-681864502,Variant 6,6,Fluxicon Disco
+Accepted-In Progress,complete,Hineesh-Org line C,2012-02-09 08:52:23+00:00,Accepted-In Progress,Hineesh,Org line C,1-661231558,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Hineesh-Org line C,2012-03-05 14:52:49+00:00,Completed-Closed,Hineesh,Org line C,1-661231558,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,Amar-Org line C,2012-02-01 12:50:00+00:00,Accepted-In Progress,Amar,Org line C,1-657163590,Variant 10,10,Fluxicon Disco
+Accepted-Assigned,complete,Amar-Org line C,2012-02-01 12:51:44+00:00,Accepted-Assigned,Amar,Org line C,1-657163590,Variant 10,10,Fluxicon Disco
+Completed-Closed,complete,Amar-Org line C,2012-03-13 19:08:32+00:00,Completed-Closed,Amar,Org line C,1-657163590,Variant 10,10,Fluxicon Disco
+Accepted-In Progress,complete,Helene-Org line G4,2010-05-25 12:17:44+00:00,Accepted-In Progress,Helene,Org line G4,1-375670011,Variant 1,1,Fluxicon Disco
+Completed-Closed,complete,Helene-Org line G4,2012-01-16 13:31:56+00:00,Completed-Closed,Helene,Org line G4,1-375670011,Variant 1,1,Fluxicon Disco
+Accepted-In Progress,complete,David-Org line G4,2010-06-16 14:09:45+00:00,Accepted-In Progress,David,Org line G4,1-380632889,Variant 67,67,Fluxicon Disco
+Queued-Awaiting Assignment,complete,David-Org line G4,2010-08-16 10:24:39+00:00,Queued-Awaiting Assignment,David,Org line G4,1-380632889,Variant 67,67,Fluxicon Disco
+Accepted-In Progress,complete,Fredrik-Org line G4,2010-08-17 15:19:11+00:00,Accepted-In Progress,Fredrik,Org line G4,1-380632889,Variant 67,67,Fluxicon Disco
+Accepted-Wait,complete,Fredrik-Org line G4,2010-12-13 09:31:55+00:00,Accepted-Wait,Fredrik,Org line G4,1-380632889,Variant 67,67,Fluxicon Disco
+Accepted-Assigned,complete,Ingemar-Org line A2,2011-06-27 10:22:34+00:00,Accepted-Assigned,Ingemar,Org line A2,1-380632889,Variant 67,67,Fluxicon Disco
+Accepted-Wait,complete,Fredrik-Org line A2,2011-06-27 10:31:34+00:00,Accepted-Wait,Fredrik,Org line A2,1-380632889,Variant 67,67,Fluxicon Disco
+Accepted-In Progress,complete,Fredrik-Org line A2,2012-01-12 12:16:07+00:00,Accepted-In Progress,Fredrik,Org line A2,1-380632889,Variant 67,67,Fluxicon Disco
+Completed-Closed,complete,Fredrik-Org line A2,2012-01-12 12:17:41+00:00,Completed-Closed,Fredrik,Org line A2,1-380632889,Variant 67,67,Fluxicon Disco
+Accepted-Wait,complete,Grzegorz-Org line A2,2011-11-04 15:13:21+00:00,Accepted-Wait,Grzegorz,Org line A2,1-602464818,Variant 15,15,Fluxicon Disco
+Completed-Closed,complete,Grzegorz-Org line A2,2012-04-23 11:37:01+00:00,Completed-Closed,Grzegorz,Org line A2,1-602464818,Variant 15,15,Fluxicon Disco
+Accepted-In Progress,complete,Per-Olof-Org line C,2012-03-16 08:22:37+00:00,Accepted-In Progress,Per-Olof,Org line C,1-698293715,Variant 3,3,Fluxicon Disco
+Accepted-Wait,complete,Per-Olof-Org line C,2012-03-16 08:25:02+00:00,Accepted-Wait,Per-Olof,Org line C,1-698293715,Variant 3,3,Fluxicon Disco
+Completed-Closed,complete,Per-Olof-Org line C,2012-04-13 14:33:52+00:00,Completed-Closed,Per-Olof,Org line C,1-698293715,Variant 3,3,Fluxicon Disco

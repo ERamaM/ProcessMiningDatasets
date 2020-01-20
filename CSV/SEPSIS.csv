@@ -1,4 +1,4 @@
-InfectionSuspected,org:group,DiagnosticBlood,DisfuncOrg,SIRSCritTachypnea,Hypotensie,SIRSCritHeartRate,Infusion,DiagnosticArtAstrup,event,Age,DiagnosticIC,DiagnosticSputum,DiagnosticLiquor,DiagnosticOther,SIRSCriteria2OrMore,DiagnosticXthorax,SIRSCritTemperature,completeTime,DiagnosticUrinaryCulture,SIRSCritLeucos,Oligurie,DiagnosticLacticAcid,lifecycle:transition,Diagnose,Hypoxie,DiagnosticUrinarySediment,DiagnosticECG,case,LacticAcid,Leucocytes,CRP
+InfectionSuspected,org:group,DiagnosticBlood,DisfuncOrg,SIRSCritTachypnea,Hypotensie,SIRSCritHeartRate,Infusion,DiagnosticArtAstrup,concept:name,Age,DiagnosticIC,DiagnosticSputum,DiagnosticLiquor,DiagnosticOther,SIRSCriteria2OrMore,DiagnosticXthorax,SIRSCritTemperature,time:timestamp,DiagnosticUrinaryCulture,SIRSCritLeucos,Oligurie,DiagnosticLacticAcid,lifecycle:transition,Diagnose,Hypoxie,DiagnosticUrinarySediment,DiagnosticECG,case:concept:name,LacticAcid,Leucocytes,CRP
 True,A,True,False,False,False,True,True,False,ER Registration,90.0,True,False,False,False,True,True,True,2013-11-07 08:18:29+01:00,True,False,False,True,complete,C,False,True,True,XJ,,,
 ,C,,,,,,,,ER Triage,,,,,,,,,2013-11-07 08:29:18+01:00,,,,,complete,,,,,XJ,,,
 ,A,,,,,,,,ER Sepsis Triage,,,,,,,,,2013-11-07 08:37:32+01:00,,,,,complete,,,,,XJ,,,
@@ -1708,7 +1708,7 @@ True,A,False,False,True,False,True,True,False,ER Registration,,False,False,False
 ,H,,,,,,,,Admission NC,,,,,,,,,2014-01-26 13:16:22+01:00,,,,,complete,,,,,RR,,,
 ,E,,,,,,,,Release A,,,,,,,,,2014-01-29 12:00:00+01:00,,,,,complete,,,,,RR,,,
 ,?,,,,,,,,Return ER,,,,,,,,,2014-02-07 16:54:05+01:00,,,,,complete,,,,,RR,,,
-False,A,False,False,False,False,False,False,False,ER Registration,45.0,False,False,False,False,False,False,False,2014-01-26 20:10:11+01:00,False,False,False,False,complete,,False,False,False,TF,,,
+False,A,False,False,False,False,False,False,False,ER Registration,45.0,False,False,False,False,False,False,False,2014-01-26 20:10:11+01:00,False,False,False,False,complete,NA,False,False,False,TF,,,
 ,C,,,,,,,,ER Triage,,,,,,,,,2014-01-26 20:25:43+01:00,,,,,complete,,,,,TF,,,
 ,A,,,,,,,,ER Sepsis Triage,,,,,,,,,2014-01-26 20:25:58+01:00,,,,,complete,,,,,TF,,,
 ,B,,,,,,,,CRP,,,,,,,,,2014-01-26 20:42:00+01:00,,,,,complete,,,,,TF,,,62.0
@@ -12808,30 +12808,30 @@ True,A,True,False,True,False,True,True,True,ER Registration,85.0,True,False,Fals
 ,B,,,,,,,,CRP,,,,,,,,,2014-11-13 07:00:00+01:00,,,,,complete,,,,,TD,,,237.0
 ,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-13 07:00:00+01:00,,,,,complete,,,,,TD,,16.3,
 ,E,,,,,,,,Release B,,,,,,,,,2014-11-19 19:15:00+01:00,,,,,complete,,,,,TD,,,
-True,A,True,True,True,True,True,True,True,ER Registration,90.0,True,False,False,False,True,True,True,2014-11-10 01:45:19+01:00,True,True,True,True,complete,C,True,True,True,,,,
-,C,,,,,,,,ER Triage,,,,,,,,,2014-11-10 01:50:10+01:00,,,,,complete,,,,,,,,
-,A,,,,,,,,ER Sepsis Triage,,,,,,,,,2014-11-10 01:53:38+01:00,,,,,complete,,,,,,,,
-,A,,,,,,,,IV Antibiotics,,,,,,,,,2014-11-10 01:54:36+01:00,,,,,complete,,,,,,,,
-,A,,,,,,,,IV Liquid,,,,,,,,,2014-11-10 02:03:14+01:00,,,,,complete,,,,,,,,
-,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-10 02:23:00+01:00,,,,,complete,,,,,,,21.4,
-,B,,,,,,,,CRP,,,,,,,,,2014-11-10 02:23:00+01:00,,,,,complete,,,,,,,,156.0
-,B,,,,,,,,LacticAcid,,,,,,,,,2014-11-10 02:23:00+01:00,,,,,complete,,,,,,1.0,,
-,G,,,,,,,,Admission NC,,,,,,,,,2014-11-10 04:37:38+01:00,,,,,complete,,,,,,,,
-,O,,,,,,,,Admission NC,,,,,,,,,2014-11-10 14:30:00+01:00,,,,,complete,,,,,,,,
-,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-11 07:00:00+01:00,,,,,complete,,,,,,,22.6,
-,B,,,,,,,,CRP,,,,,,,,,2014-11-11 07:00:00+01:00,,,,,complete,,,,,,,,213.0
-,B,,,,,,,,CRP,,,,,,,,,2014-11-13 07:00:00+01:00,,,,,complete,,,,,,,,207.0
-,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-13 07:00:00+01:00,,,,,complete,,,,,,,17.9,
-,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-15 16:08:00+01:00,,,,,complete,,,,,,,19.0,
-,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-15 19:42:00+01:00,,,,,complete,,,,,,,17.1,
-,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-15 23:46:00+01:00,,,,,complete,,,,,,,17.7,
-,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-16 07:00:00+01:00,,,,,complete,,,,,,,17.2,
-,B,,,,,,,,CRP,,,,,,,,,2014-11-16 07:00:00+01:00,,,,,complete,,,,,,,,78.0
-,B,,,,,,,,LacticAcid,,,,,,,,,2014-11-16 13:05:00+01:00,,,,,complete,,,,,,1.7,,
-,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-17 07:00:00+01:00,,,,,complete,,,,,,,17.4,
-,B,,,,,,,,CRP,,,,,,,,,2014-11-17 07:00:00+01:00,,,,,complete,,,,,,,,64.0
-,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-18 07:00:00+01:00,,,,,complete,,,,,,,16.8,
-,E,,,,,,,,Release C,,,,,,,,,2014-11-22 14:30:00+01:00,,,,,complete,,,,,,,,
+True,A,True,True,True,True,True,True,True,ER Registration,90.0,True,False,False,False,True,True,True,2014-11-10 01:45:19+01:00,True,True,True,True,complete,C,True,True,True,NA,,,
+,C,,,,,,,,ER Triage,,,,,,,,,2014-11-10 01:50:10+01:00,,,,,complete,,,,,NA,,,
+,A,,,,,,,,ER Sepsis Triage,,,,,,,,,2014-11-10 01:53:38+01:00,,,,,complete,,,,,NA,,,
+,A,,,,,,,,IV Antibiotics,,,,,,,,,2014-11-10 01:54:36+01:00,,,,,complete,,,,,NA,,,
+,A,,,,,,,,IV Liquid,,,,,,,,,2014-11-10 02:03:14+01:00,,,,,complete,,,,,NA,,,
+,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-10 02:23:00+01:00,,,,,complete,,,,,NA,,21.4,
+,B,,,,,,,,CRP,,,,,,,,,2014-11-10 02:23:00+01:00,,,,,complete,,,,,NA,,,156.0
+,B,,,,,,,,LacticAcid,,,,,,,,,2014-11-10 02:23:00+01:00,,,,,complete,,,,,NA,1.0,,
+,G,,,,,,,,Admission NC,,,,,,,,,2014-11-10 04:37:38+01:00,,,,,complete,,,,,NA,,,
+,O,,,,,,,,Admission NC,,,,,,,,,2014-11-10 14:30:00+01:00,,,,,complete,,,,,NA,,,
+,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-11 07:00:00+01:00,,,,,complete,,,,,NA,,22.6,
+,B,,,,,,,,CRP,,,,,,,,,2014-11-11 07:00:00+01:00,,,,,complete,,,,,NA,,,213.0
+,B,,,,,,,,CRP,,,,,,,,,2014-11-13 07:00:00+01:00,,,,,complete,,,,,NA,,,207.0
+,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-13 07:00:00+01:00,,,,,complete,,,,,NA,,17.9,
+,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-15 16:08:00+01:00,,,,,complete,,,,,NA,,19.0,
+,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-15 19:42:00+01:00,,,,,complete,,,,,NA,,17.1,
+,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-15 23:46:00+01:00,,,,,complete,,,,,NA,,17.7,
+,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-16 07:00:00+01:00,,,,,complete,,,,,NA,,17.2,
+,B,,,,,,,,CRP,,,,,,,,,2014-11-16 07:00:00+01:00,,,,,complete,,,,,NA,,,78.0
+,B,,,,,,,,LacticAcid,,,,,,,,,2014-11-16 13:05:00+01:00,,,,,complete,,,,,NA,1.7,,
+,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-17 07:00:00+01:00,,,,,complete,,,,,NA,,17.4,
+,B,,,,,,,,CRP,,,,,,,,,2014-11-17 07:00:00+01:00,,,,,complete,,,,,NA,,,64.0
+,B,,,,,,,,Leucocytes,,,,,,,,,2014-11-18 07:00:00+01:00,,,,,complete,,,,,NA,,16.8,
+,E,,,,,,,,Release C,,,,,,,,,2014-11-22 14:30:00+01:00,,,,,complete,,,,,NA,,,
 True,A,True,False,True,False,True,True,False,ER Registration,90.0,True,False,False,False,True,True,True,2014-11-10 03:21:46+01:00,False,False,False,True,complete,E,False,True,True,AV,,,
 ,B,,,,,,,,LacticAcid,,,,,,,,,2014-11-10 03:32:00+01:00,,,,,complete,,,,,AV,1.4,,
 ,B,,,,,,,,CRP,,,,,,,,,2014-11-10 03:32:00+01:00,,,,,complete,,,,,AV,,,11.0

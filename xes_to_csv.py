@@ -25,15 +25,8 @@ for file in datasets:
         log = xes_import_factory.apply("./XES/" + file, parameters={"timestamp_sort": True})
         csv_exporter.export(log, "./CSV/" + csv_file)
 
-        file = pd.read_csv("./CSV/" + csv_file)
-        file = file.rename(
-            columns={
-                "concept:name": "event",
-                "case:concept:name": "case",
-                "time:timestamp": "completeTime"
-            }, errors="raise"
-        )
+        # file = pd.read_csv("./CSV/" + csv_file)
 
-        file.to_csv("./CSV/" + csv_file, sep=",", index=False)
+        # file.to_csv("./CSV/" + csv_file, sep=",", index=False)
     except OSError:
         print("Unable to process: ", file)

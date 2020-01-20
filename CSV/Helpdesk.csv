@@ -1,4 +1,4 @@
-event,lifecycle:transition,org:resource,completeTime,Activity,Resource,case,case:variant,case:variant-index,case:creator
+concept:name,lifecycle:transition,org:resource,time:timestamp,Activity,Resource,case:concept:name,case:variant,case:variant-index,case:creator
 Assign seriousness,complete,Value 2,2010-01-13 08:40:25+02:00,Assign seriousness,Value 2,Case3608,Variant 33,33,Fluxicon Disco
 Take in charge ticket,complete,Value 2,2010-01-29 08:52:27+02:00,Take in charge ticket,Value 2,Case3608,Variant 33,33,Fluxicon Disco
 Resolve ticket,complete,Value 2,2010-01-29 08:52:34+02:00,Resolve ticket,Value 2,Case3608,Variant 33,33,Fluxicon Disco
